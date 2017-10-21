@@ -10,56 +10,39 @@ res.raise_for_status()
 soup = BeautifulSoup(res.text, "html.parser")
 
 graph = facebook.GraphAPI(
-    access_token="EAACEdEose0cBAHleHnhoZA3f6bocgqkkgwsPRXjiZCLfnbVnx10NUtOPybXh0Ez0WIY3g55bBZCT5eHECpycjvCS57dRL1ZBTiw0JH8JDrlnS2HTCIZCe4IzDZAUoqtg37Nb7lTu9ckBYFLLcgfC3H5ZBzw0gActMYek3vZADXOCq5szm4wuMtZCncfkqtJoZAQ2fJzFZCxsMxqNwZDZD",
+    access_token="EAACEdEose0cBAIRN2RxdR3kCo46bxAglRngv14f3RMdre8IVqWJv00Ib9vrxl03UcrfSZCcZCbXDr5OchX0nHmbfr5osPBGkYBdqLyuZBKR9F8z2nCnODlKB1RvMd5d4UYH9ZB03TV9fBIWgAnZCg0peUUfJEx74vSX8YMGnd5IEdgFOwP12p4MWZA8PaWNXVbN1L7VK6GRQZDZD",
     version=2.10)
 
 
 def scrape(pg_id):
     item = graph.get_object(id=pg_id, fields='feed')["feed"]["data"]
-    result = []
-    # for v in item:
-    #     result.append(
-    #         graph.get_object(v["id"], fields='from, place, link, picture,  created_time, description, application'))
-    # return result
     return [graph.get_object(i["id"], fields='from, place, link, picture,  created_time, description, application') for
             i in item]
 
 
 from multiprocessing import Process
 
-
-def do_scrape(pr):
+def get_new_posts(pr):
     link = pr.findAll('a')
     # if len(link) > 0 and ("LostDogsTennessee" in str(link[0]) or "NewYork" in str(link[0])):  ## For testing
     if len(link) > 0 and "/www.facebook.com/Lost" in str(link[0]):
         pg_id = link[0]['href'].split('/')[3].split('?')[0]
-        print(pg_id)
-        with open('output.json', 'r+') as f:
-            data = json.load(f)
-            data[pg_id] = scrape(pg_id)
+        with open(pg_id + '_output.json', 'w+') as f:
+            try:
+                data = json.load(f)
+            except ValueError:
+                data = []
+            data = data + scrape(pg_id)
             f.seek(0)  # <--- should reset file position to the beginning.
             json.dump(data, f, indent=4)
             f.truncate()  # remove remaining part
-            # file.write(str(scrape(pg_id)))
-            # print(scrape(pg_id))
 
 
 for pr in soup.findAll('p'):
-    p = Process(target=do_scrape, args=(pr,))
+    p = Process(target=get_new_posts, args=(pr,))
     p.start()
 
-
 print("\n\n")
-
-# from clarifai.rest import ClarifaiApp
-#
-# app = ClarifaiApp()
-# model = app.models.get('general-v1.3')
-# response = model.predict_by_url(url='http://cdn2-www.dogtime.com/assets/uploads/gallery/german-shepherd-dog-breed-pictures/standing-7.jpg')
-#
-# concepts = response['outputs'][0]['data']['concepts']
-# for concept in concepts:
-#     print(concept['name'], concept['value'])
 
 from clarifai.rest import ClarifaiApp
 from clarifai.rest import Image as ClImage
