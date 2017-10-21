@@ -1,257 +1,351 @@
 [
     {
-        "from": {
-            "id": "562934497185807",
-            "name": "Lost Dogs Tennessee"
-        },
-        "link": "https://www.facebook.com/LostDogsTennessee/photos/a.563843897094867.1073741828.562934497185807/1262233810589202/?type=3",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22552665_1262233810589202_6993713487057228852_n.png?oh=95ca633771d45454adeb229b471aedbf&oe=5A81EAB6",
-        "created_time": "2017-10-21T11:26:15+0000",
-        "id": "562934497185807_1262233833922533"
+        "timestamp_img": "2017-10-21T11:26:15+0000",
+        "phoneNumber": "4235993960",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": [
+            "Lost",
+            "Dogs",
+            "Tennessee"
+        ],
+        "nuetered": "none",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22552665_1262233810589202_6993713487057228852_n.png?oh=95ca633771d45454adeb229b471aedbf&oe=5A81EAB6",
+        "fb_post_id": "562934497185807_1262233833922533"
     },
     {
-        "link": "https://www.facebook.com/HelpingLostPets/photos/a.205071629551749.54071.122576304467949/1630679200324311/?type=3",
-        "description": "We meet people every day that would climb a mountain to find their missing pet. This is why we are so driven to get EVERY LOST AND FOUND PET LISTED ON ONE Database.\n\nWe have partnered with so many amazing volunteer groups that are helping across the country. In addition, our Matchmakers group is growing. \n\nIf you have a missing pet and you have not listed with us, you can list for free, The next Match made might be for your pet. Please use this link to list: http://www.HelpinglostPets.com/PET\n\nAre you someone that likes to match lost and found pets? Join our Matchmakers group and we will teach you how to use HelpingLostPets.com. Just email us at info@helpinglostpets.com",
-        "from": {
-            "id": "562934497185807",
-            "name": "Lost Dogs Tennessee"
-        },
-        "created_time": "2017-10-20T13:34:06+0000",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22550039_1630679200324311_6466369115228797995_n.jpg?oh=95914a86e0b92cd043e4d3a53a680b06&oe=5A6E6F75",
-        "id": "562934497185807_1261575023988414"
+        "timestamp_img": "2017-10-20T13:34:06+0000",
+        "phoneNumber": 0,
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": [
+            "Lost",
+            "Dogs",
+            "Tennessee"
+        ],
+        "nuetered": "none",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22550039_1630679200324311_6466369115228797995_n.jpg?oh=95914a86e0b92cd043e4d3a53a680b06&oe=5A6E6F75",
+        "fb_post_id": "562934497185807_1261575023988414"
     },
     {
-        "from": {
-            "id": "562934497185807",
-            "name": "Lost Dogs Tennessee"
-        },
-        "link": "https://www.facebook.com/LostDogsTennessee/photos/a.563843897094867.1073741828.562934497185807/1261166114029305/?type=3",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22491954_1261166114029305_1045697622491643814_n.png?oh=138afce758b359eff4bb7ecd14bfdcd4&oe=5A7EEEF3",
-        "created_time": "2017-10-20T01:04:16+0000",
-        "id": "562934497185807_1261166204029296"
+        "timestamp_img": "2017-10-20T01:04:16+0000",
+        "phoneNumber": "2133084815",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": [
+            "Lost",
+            "Dogs",
+            "Tennessee"
+        ],
+        "nuetered": "none",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22491954_1261166114029305_1045697622491643814_n.png?oh=138afce758b359eff4bb7ecd14bfdcd4&oe=5A7EEEF3",
+        "fb_post_id": "562934497185807_1261166204029296"
     },
     {
-        "from": {
-            "id": "562934497185807",
-            "name": "Lost Dogs Tennessee"
-        },
-        "link": "https://www.facebook.com/LostDogsTennessee/photos/a.563843897094867.1073741828.562934497185807/1260159414129975/?type=3",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22687802_1260159414129975_1730646600984087087_n.png?oh=73e945a8b429668884e178ed49cadc2e&oe=5A731712",
-        "created_time": "2017-10-18T16:01:31+0000",
-        "id": "562934497185807_1260159484129968"
+        "timestamp_img": "2017-10-18T16:01:31+0000",
+        "phoneNumber": "4235300105",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": [
+            "Lost",
+            "Dogs",
+            "Tennessee"
+        ],
+        "nuetered": "none",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22687802_1260159414129975_1730646600984087087_n.png?oh=73e945a8b429668884e178ed49cadc2e&oe=5A731712",
+        "fb_post_id": "562934497185807_1260159484129968"
     },
     {
-        "link": "https://www.facebook.com/LostDogsTennessee/photos/a.563843897094867.1073741828.562934497185807/1250567305089186/?type=3",
-        "description": "Lost Dog - Nashville, TN - May.16, 2017\nClosest Intersection: E. Webster St & E. Palestine Ave\nCounty: Davidson\n\n#LOSTDOG #Ellie #Nashville (E. Webster St & E. Palestine Ave) #TN 37115 #Davidson Co. , #Lost #Dog 05-16-2017!, Female #Yorkshire Terrier Yorkie Tan / Tan/she goes by Ellie or Ellie May....dances on her back legs.\n\nPhone: (615) 308-9189\n\nMore Info, Photos and to Contact: http://www.helpinglostpets.com/petdetail/?id=1971180\n\nTo see this pet\u2019s location on the HelpingLostPets Map: http://www.helpinglostpets.com/v2/?pid=1971180\n\nLet's get Ellie home!\n#lostdogstennessee #HelpingLostPets",
-        "from": {
-            "id": "562934497185807",
-            "name": "Lost Dogs Tennessee"
-        },
-        "created_time": "2017-10-18T15:47:42+0000",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22141133_1250567305089186_2193640426703662585_n.png?oh=adb54262e61fd308aba54375c0fad48c&oe=5A6F85EC",
-        "id": "562934497185807_1260151567464093"
+        "timestamp_img": "2017-10-18T15:47:42+0000",
+        "phoneNumber": "6153089189",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": [
+            "Lost",
+            "Dogs",
+            "Tennessee"
+        ],
+        "nuetered": "none",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22141133_1250567305089186_2193640426703662585_n.png?oh=adb54262e61fd308aba54375c0fad48c&oe=5A6F85EC",
+        "fb_post_id": "562934497185807_1260151567464093"
     },
     {
-        "from": {
-            "id": "562934497185807",
-            "name": "Lost Dogs Tennessee"
-        },
-        "link": "https://www.facebook.com/LostDogsTennessee/photos/a.563843897094867.1073741828.562934497185807/1259558817523368/?type=3",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22310702_1259558817523368_5220107699875700535_n.png?oh=5c1da06cc2e57fed49266bc7f6a2631d&oe=5A6EDDBA",
-        "created_time": "2017-10-17T18:06:41+0000",
-        "id": "562934497185807_1259558894190027"
+        "timestamp_img": "2017-10-17T18:06:41+0000",
+        "phoneNumber": "6153374772",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": [
+            "Lost",
+            "Dogs",
+            "Tennessee"
+        ],
+        "nuetered": "none",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22310702_1259558817523368_5220107699875700535_n.png?oh=5c1da06cc2e57fed49266bc7f6a2631d&oe=5A6EDDBA",
+        "fb_post_id": "562934497185807_1259558894190027"
     },
     {
-        "from": {
-            "id": "562934497185807",
-            "name": "Lost Dogs Tennessee"
-        },
-        "link": "https://www.facebook.com/LostDogsTennessee/photos/a.563843897094867.1073741828.562934497185807/1258909487588301/?type=3",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22309032_1258909487588301_1119237284258042348_n.png?oh=957d0e075e9a0352fa5bdfcf6595806f&oe=5A631BAE",
-        "created_time": "2017-10-16T23:51:51+0000",
-        "id": "562934497185807_1258909520921631"
+        "timestamp_img": "2017-10-16T23:51:51+0000",
+        "phoneNumber": "9014513615",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": [
+            "Lost",
+            "Dogs",
+            "Tennessee"
+        ],
+        "nuetered": "none",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22309032_1258909487588301_1119237284258042348_n.png?oh=957d0e075e9a0352fa5bdfcf6595806f&oe=5A631BAE",
+        "fb_post_id": "562934497185807_1258909520921631"
     },
     {
-        "from": {
-            "id": "562934497185807",
-            "name": "Lost Dogs Tennessee"
-        },
-        "link": "https://www.facebook.com/LostDogsTennessee/photos/a.563843897094867.1073741828.562934497185807/1258904674255449/?type=3",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22489679_1258904674255449_5912954537955838030_n.png?oh=b239db62fecc0849c0aaa23b09f61b5c&oe=5A86324D",
-        "created_time": "2017-10-16T23:38:06+0000",
-        "id": "562934497185807_1258904730922110"
+        "timestamp_img": "2017-10-16T23:38:06+0000",
+        "phoneNumber": null,
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": [
+            "Lost",
+            "Dogs",
+            "Tennessee"
+        ],
+        "nuetered": "none",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22489679_1258904674255449_5912954537955838030_n.png?oh=b239db62fecc0849c0aaa23b09f61b5c&oe=5A86324D",
+        "fb_post_id": "562934497185807_1258904730922110"
     },
     {
-        "from": {
-            "id": "562934497185807",
-            "name": "Lost Dogs Tennessee"
-        },
-        "link": "https://www.facebook.com/LostDogsTennessee/photos/a.563843897094867.1073741828.562934497185807/1258197004326216/?type=3",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22448379_1258197004326216_781092129351609971_n.png?oh=30977c92b3b49c605b027ed62cfa7749&oe=5A66C32D",
-        "created_time": "2017-10-15T22:58:24+0000",
-        "id": "562934497185807_1258197017659548"
+        "timestamp_img": "2017-10-15T22:58:24+0000",
+        "phoneNumber": "none",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": [
+            "Lost",
+            "Dogs",
+            "Tennessee"
+        ],
+        "nuetered": "none",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22448379_1258197004326216_781092129351609971_n.png?oh=30977c92b3b49c605b027ed62cfa7749&oe=5A66C32D",
+        "fb_post_id": "562934497185807_1258197017659548"
     },
     {
-        "from": {
-            "id": "562934497185807",
-            "name": "Lost Dogs Tennessee"
-        },
-        "link": "https://www.facebook.com/LostDogsTennessee/photos/a.563843897094867.1073741828.562934497185807/1258047064341210/?type=3",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22491547_1258047064341210_2130261505013274560_n.png?oh=aeaaa05a8b06ac2a291510d198a44a2d&oe=5A7D9A84",
-        "created_time": "2017-10-15T17:15:55+0000",
-        "id": "562934497185807_1258047101007873"
+        "timestamp_img": "2017-10-15T17:15:55+0000",
+        "phoneNumber": "9318398390",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": [
+            "Lost",
+            "Dogs",
+            "Tennessee"
+        ],
+        "nuetered": "none",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22491547_1258047064341210_2130261505013274560_n.png?oh=aeaaa05a8b06ac2a291510d198a44a2d&oe=5A7D9A84",
+        "fb_post_id": "562934497185807_1258047101007873"
     },
     {
-        "link": "https://www.facebook.com/GA.Lost.Dogs/photos/a.396534377150592.1073741828.388916371245726/1115957435208279/?type=3",
-        "description": "TIP: DISTRIBUTING FLYERS AT COMMUNITY EVENTS\n\nFall is a great time for community events such as fall festivals. What better place to reach a large number of the members of your community and get the word out about your missing pet. When distributing flyers, use the FREE flyer templates from our site to increase awareness about your missing pet and about HelpingLostPets.com and Lost Dogs Georgia. This helps other pets in your community get back home.\n\nWe offer several different templates to choose from. \n\nTemplate #1 - With TearOffs\nTemplate #2 - Photo with detailed information\nTemplate #3 - With large photo\nTemplate #4 - Large photo\n\nAll templates allow you to select the 4-on-a-sheet printing option to cut and hand out. This is a great way to cut down on printing cost and get your flyer out to the public.\n\nTo list a lost or found pet and get a post on our page or the Lost Cats Georgia page and to get your FREE flyer, go to:\n\nwww.HelpingLostPets.com/PET\n\nTo see all our templates, go to: http://www.lostdogsgeorgia.org/tips-for-listing.html\n\nThe dog in this photo is Buster Sey Moore. He's missing from Covington, Georgia and is just one of the many lost dogs listed with us. We would love to help him and all the pets listed with us get back home.",
-        "from": {
-            "id": "562934497185807",
-            "name": "Lost Dogs Tennessee"
-        },
-        "created_time": "2017-10-15T16:40:07+0000",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22405972_1115957435208279_6399124236609333310_n.png?oh=1b08a2ea5225753afb16fc9bd53dd190&oe=5A6E14D4",
-        "id": "562934497185807_1258024531010130"
+        "timestamp_img": "2017-10-15T16:40:07+0000",
+        "phoneNumber": "none",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": [
+            "Lost",
+            "Dogs",
+            "Tennessee"
+        ],
+        "nuetered": "none",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22405972_1115957435208279_6399124236609333310_n.png?oh=1b08a2ea5225753afb16fc9bd53dd190&oe=5A6E14D4",
+        "fb_post_id": "562934497185807_1258024531010130"
     },
     {
-        "from": {
-            "id": "562934497185807",
-            "name": "Lost Dogs Tennessee"
-        },
-        "link": "https://www.facebook.com/LostDogsTennessee/photos/a.563843897094867.1073741828.562934497185807/1257867697692480/?type=3",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22406510_1257867697692480_1674599864870319736_n.png?oh=77eb3b2065ad407bf5c6e1e1cb5314ec&oe=5A808110",
-        "created_time": "2017-10-15T12:30:37+0000",
-        "id": "562934497185807_1257867751025808"
+        "timestamp_img": "2017-10-15T12:30:37+0000",
+        "phoneNumber": "6154956062",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": [
+            "Lost",
+            "Dogs",
+            "Tennessee"
+        ],
+        "nuetered": "none",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22406510_1257867697692480_1674599864870319736_n.png?oh=77eb3b2065ad407bf5c6e1e1cb5314ec&oe=5A808110",
+        "fb_post_id": "562934497185807_1257867751025808"
     },
     {
-        "from": {
-            "id": "562934497185807",
-            "name": "Lost Dogs Tennessee"
-        },
-        "link": "https://www.facebook.com/LostDogsTennessee/photos/a.563843897094867.1073741828.562934497185807/1257855227693727/?type=3",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22406185_1257855227693727_1228155798029348516_n.png?oh=b480499565b05e7ed5bf1cf69ae9332d&oe=5A6A08F1",
-        "created_time": "2017-10-15T12:01:40+0000",
-        "id": "562934497185807_1257855244360392"
+        "timestamp_img": "2017-10-15T12:01:40+0000",
+        "phoneNumber": "none",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": [
+            "Lost",
+            "Dogs",
+            "Tennessee"
+        ],
+        "nuetered": "none",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22406185_1257855227693727_1228155798029348516_n.png?oh=b480499565b05e7ed5bf1cf69ae9332d&oe=5A6A08F1",
+        "fb_post_id": "562934497185807_1257855244360392"
     },
     {
-        "from": {
-            "id": "562934497185807",
-            "name": "Lost Dogs Tennessee"
-        },
-        "link": "https://www.facebook.com/LostDogsTennessee/photos/a.563843897094867.1073741828.562934497185807/1256412391171344/?type=3",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22489995_1256412391171344_3340195291872736701_n.png?oh=c34229fec229ffe17f1c208d354cd8e5&oe=5A75EBC8",
-        "created_time": "2017-10-13T11:54:21+0000",
-        "id": "562934497185807_1256412414504675"
+        "timestamp_img": "2017-10-13T11:54:21+0000",
+        "phoneNumber": "none",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": [
+            "Lost",
+            "Dogs",
+            "Tennessee"
+        ],
+        "nuetered": "none",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22489995_1256412391171344_3340195291872736701_n.png?oh=c34229fec229ffe17f1c208d354cd8e5&oe=5A75EBC8",
+        "fb_post_id": "562934497185807_1256412414504675"
     },
     {
-        "from": {
-            "id": "562934497185807",
-            "name": "Lost Dogs Tennessee"
-        },
-        "link": "https://www.facebook.com/LostDogsTennessee/photos/a.563843897094867.1073741828.562934497185807/1256011254544791/?type=3",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22366257_1256011254544791_1706520588800253448_n.png?oh=41697d8685f0f9313845e9d90f4df333&oe=5A7C891A",
-        "created_time": "2017-10-12T20:12:36+0000",
-        "id": "562934497185807_1256011274544789"
+        "timestamp_img": "2017-10-12T20:12:36+0000",
+        "phoneNumber": "7732082070",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": [
+            "Lost",
+            "Dogs",
+            "Tennessee"
+        ],
+        "nuetered": "none",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22366257_1256011254544791_1706520588800253448_n.png?oh=41697d8685f0f9313845e9d90f4df333&oe=5A7C891A",
+        "fb_post_id": "562934497185807_1256011274544789"
     },
     {
-        "from": {
-            "id": "562934497185807",
-            "name": "Lost Dogs Tennessee"
-        },
-        "link": "https://www.facebook.com/LostDogsTennessee/photos/a.563843897094867.1073741828.562934497185807/1256002394545677/?type=3",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22450121_1256002394545677_793597557299001183_n.png?oh=e669905ba44134d41ae8257272989b53&oe=5A731E0E",
-        "created_time": "2017-10-12T19:57:33+0000",
-        "id": "562934497185807_1256002421212341"
+        "timestamp_img": "2017-10-12T19:57:33+0000",
+        "phoneNumber": "none",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": [
+            "Lost",
+            "Dogs",
+            "Tennessee"
+        ],
+        "nuetered": "none",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22450121_1256002394545677_793597557299001183_n.png?oh=e669905ba44134d41ae8257272989b53&oe=5A731E0E",
+        "fb_post_id": "562934497185807_1256002421212341"
     },
     {
-        "from": {
-            "id": "562934497185807",
-            "name": "Lost Dogs Tennessee"
-        },
-        "link": "https://www.facebook.com/LostDogsTennessee/photos/a.563843897094867.1073741828.562934497185807/1256002344545682/?type=3",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22365359_1256002344545682_8880002579602710632_n.png?oh=540ef46e13dc95e8e3f27c42968a6d6e&oe=5A67B662",
-        "created_time": "2017-10-12T19:57:20+0000",
-        "id": "562934497185807_1256002357879014"
+        "timestamp_img": "2017-10-12T19:57:20+0000",
+        "phoneNumber": "none",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": [
+            "Lost",
+            "Dogs",
+            "Tennessee"
+        ],
+        "nuetered": "none",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22365359_1256002344545682_8880002579602710632_n.png?oh=540ef46e13dc95e8e3f27c42968a6d6e&oe=5A67B662",
+        "fb_post_id": "562934497185807_1256002357879014"
     },
     {
-        "from": {
-            "id": "562934497185807",
-            "name": "Lost Dogs Tennessee"
-        },
-        "link": "https://www.facebook.com/LostDogsTennessee/photos/a.563843897094867.1073741828.562934497185807/1255387347940515/?type=3",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22366470_1255387347940515_9147912645531903457_n.png?oh=8c8c4dd2d8e83746d6f35ba9f1628115&oe=5A7D9CD6",
-        "created_time": "2017-10-11T23:21:23+0000",
-        "id": "562934497185807_1255387381273845"
+        "timestamp_img": "2017-10-11T23:21:23+0000",
+        "phoneNumber": "6155788682",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": [
+            "Lost",
+            "Dogs",
+            "Tennessee"
+        ],
+        "nuetered": "none",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22366470_1255387347940515_9147912645531903457_n.png?oh=8c8c4dd2d8e83746d6f35ba9f1628115&oe=5A7D9CD6",
+        "fb_post_id": "562934497185807_1255387381273845"
     },
     {
-        "from": {
-            "id": "562934497185807",
-            "name": "Lost Dogs Tennessee"
-        },
-        "link": "https://www.facebook.com/LostDogsTennessee/photos/a.563843897094867.1073741828.562934497185807/1253164571496126/?type=3",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22365198_1253164571496126_7805994051082019242_n.png?oh=4f6b9df0b2ab41975ccb8bbe835751c3&oe=5A71C67E",
-        "created_time": "2017-10-08T17:41:19+0000",
-        "id": "562934497185807_1253164598162790"
+        "timestamp_img": "2017-10-08T17:41:19+0000",
+        "phoneNumber": "none",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": [
+            "Lost",
+            "Dogs",
+            "Tennessee"
+        ],
+        "nuetered": "none",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22365198_1253164571496126_7805994051082019242_n.png?oh=4f6b9df0b2ab41975ccb8bbe835751c3&oe=5A71C67E",
+        "fb_post_id": "562934497185807_1253164598162790"
     },
     {
-        "from": {
-            "id": "562934497185807",
-            "name": "Lost Dogs Tennessee"
-        },
-        "link": "https://www.facebook.com/LostDogsTennessee/photos/a.563843897094867.1073741828.562934497185807/1252339521578631/?type=3",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22281789_1252339521578631_6778420624483524770_n.png?oh=8e4a333bbb54ae4202473ec2caeb974f&oe=5A710A33",
-        "created_time": "2017-10-07T13:39:36+0000",
-        "id": "562934497185807_1252339564911960"
+        "timestamp_img": "2017-10-07T13:39:36+0000",
+        "phoneNumber": "none",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": [
+            "Lost",
+            "Dogs",
+            "Tennessee"
+        ],
+        "nuetered": "none",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22281789_1252339521578631_6778420624483524770_n.png?oh=8e4a333bbb54ae4202473ec2caeb974f&oe=5A710A33",
+        "fb_post_id": "562934497185807_1252339564911960"
     },
     {
-        "from": {
-            "id": "562934497185807",
-            "name": "Lost Dogs Tennessee"
-        },
-        "link": "https://www.facebook.com/LostDogsTennessee/photos/a.563843897094867.1073741828.562934497185807/1250567305089186/?type=3",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22141133_1250567305089186_2193640426703662585_n.png?oh=adb54262e61fd308aba54375c0fad48c&oe=5A6F85EC",
-        "created_time": "2017-10-04T20:07:17+0000",
-        "id": "562934497185807_1250567318422518"
+        "timestamp_img": "2017-10-04T20:07:17+0000",
+        "phoneNumber": "6153089189",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": [
+            "Lost",
+            "Dogs",
+            "Tennessee"
+        ],
+        "nuetered": "none",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22141133_1250567305089186_2193640426703662585_n.png?oh=adb54262e61fd308aba54375c0fad48c&oe=5A6F85EC",
+        "fb_post_id": "562934497185807_1250567318422518"
     },
     {
-        "link": "https://www.facebook.com/LostDogsTennessee/photos/a.563843897094867.1073741828.562934497185807/1232758890203361/?type=3",
-        "description": "Lost Dog - Nashville, TN - Aug.17, 2017\nClosest Intersection: Cammack Ct and Rodney Dr\nCounty: Davidson\n\n#LOSTDOG #Turk #Nashville (Cammack Ct & Rodney Dr) #TN 37205 #Davidson Co. , #Lost #Dog 08-17-2017!, Male #Basset Hound / Treeing Walker Coonhound Mix White / Brown / Black/We hired lost pet professionals to help us track Turk. We found that he was likely picked up at the Sonic on Old Hickory Blvd in West Nashville right near interstate 40. He could be anywhere. We are offering a reward for Turk's return.\n\nPhone: (615) 310-5798\n\nMore Info, Photos and to Contact: http://www.helpinglostpets.com/petdetail/?id=1921265\n\nTo see this pet\u2019s location on the HelpingLostPets Map: http://www.helpinglostpets.com/v2/?pid=1921265\n\nLet's get Turk home!\n#lostdogstennessee #HelpingLostPets",
-        "from": {
-            "id": "562934497185807",
-            "name": "Lost Dogs Tennessee"
-        },
-        "created_time": "2017-10-02T21:44:01+0000",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/21369213_1232758890203361_6025862658334245632_n.png?oh=0f8a1f9a9072781bd5d08d39765a822b&oe=5A6D8894",
-        "id": "562934497185807_1249327285213188"
+        "timestamp_img": "2017-10-02T21:44:01+0000",
+        "phoneNumber": "6153105798",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": [
+            "Lost",
+            "Dogs",
+            "Tennessee"
+        ],
+        "nuetered": "none",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/21369213_1232758890203361_6025862658334245632_n.png?oh=0f8a1f9a9072781bd5d08d39765a822b&oe=5A6D8894",
+        "fb_post_id": "562934497185807_1249327285213188"
     },
     {
-        "link": "https://www.facebook.com/LostDogsTennessee/photos/a.563843897094867.1073741828.562934497185807/1232758890203361/?type=3",
-        "description": "Lost Dog - Nashville, TN - Aug.17, 2017\nClosest Intersection: Cammack Ct and Rodney Dr\nCounty: Davidson\n\n#LOSTDOG #Turk #Nashville (Cammack Ct & Rodney Dr) #TN 37205 #Davidson Co. , #Lost #Dog 08-17-2017!, Male #Basset Hound / Treeing Walker Coonhound Mix White / Brown / Black/We hired lost pet professionals to help us track Turk. We found that he was likely picked up at the Sonic on Old Hickory Blvd in West Nashville right near interstate 40. He could be anywhere. We are offering a reward for Turk's return.\n\nPhone: (615) 310-5798\n\nMore Info, Photos and to Contact: http://www.helpinglostpets.com/petdetail/?id=1921265\n\nTo see this pet\u2019s location on the HelpingLostPets Map: http://www.helpinglostpets.com/v2/?pid=1921265\n\nLet's get Turk home!\n#lostdogstennessee #HelpingLostPets",
-        "from": {
-            "id": "562934497185807",
-            "name": "Lost Dogs Tennessee"
-        },
-        "created_time": "2017-09-30T23:59:38+0000",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/21369213_1232758890203361_6025862658334245632_n.png?oh=0f8a1f9a9072781bd5d08d39765a822b&oe=5A6D8894",
-        "id": "562934497185807_1247816565364260"
+        "timestamp_img": "2017-09-30T23:59:38+0000",
+        "phoneNumber": "6153105798",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": [
+            "Lost",
+            "Dogs",
+            "Tennessee"
+        ],
+        "nuetered": "none",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/21369213_1232758890203361_6025862658334245632_n.png?oh=0f8a1f9a9072781bd5d08d39765a822b&oe=5A6D8894",
+        "fb_post_id": "562934497185807_1247816565364260"
     },
     {
-        "from": {
-            "id": "562934497185807",
-            "name": "Lost Dogs Tennessee"
-        },
-        "link": "https://www.facebook.com/LostDogsTennessee/photos/a.563843897094867.1073741828.562934497185807/1247813788697871/?type=3",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22140741_1247813788697871_7085206294831381295_n.png?oh=6fab377d21377b4d74cce7802bdf9fa9&oe=5A6B883B",
-        "created_time": "2017-09-30T23:51:46+0000",
-        "id": "562934497185807_1247813825364534"
+        "timestamp_img": "2017-09-30T23:51:46+0000",
+        "phoneNumber": "none",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": [
+            "Lost",
+            "Dogs",
+            "Tennessee"
+        ],
+        "nuetered": "none",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22140741_1247813788697871_7085206294831381295_n.png?oh=6fab377d21377b4d74cce7802bdf9fa9&oe=5A6B883B",
+        "fb_post_id": "562934497185807_1247813825364534"
     },
     {
-        "from": {
-            "id": "10203737385385505",
-            "name": "Holly Hughes"
-        },
-        "link": "https://www.facebook.com/photo.php?fbid=10214273013769630&set=p.10214273013769630&type=3",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22141195_10214273013769630_4928274611082192940_n.jpg?oh=67ce54616aa78218b073eecd9dcfae23&oe=5A74D123",
-        "created_time": "2017-09-30T20:07:32+0000",
-        "id": "562934497185807_1247728385373078"
+        "timestamp_img": "2017-09-30T20:07:32+0000",
+        "phoneNumber": 0,
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": [
+            "Holly",
+            "Hughes"
+        ],
+        "nuetered": "none",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22141195_10214273013769630_4928274611082192940_n.jpg?oh=67ce54616aa78218b073eecd9dcfae23&oe=5A74D123",
+        "fb_post_id": "562934497185807_1247728385373078"
     }
 ]

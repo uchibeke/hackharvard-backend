@@ -4,7 +4,7 @@ import requests
 import facebook
 import re
 import json
-from ..api_requests import *
+from api_requests import *
 
 res = requests.get('https://lostdogsofamerica.org/')
 res.raise_for_status()
