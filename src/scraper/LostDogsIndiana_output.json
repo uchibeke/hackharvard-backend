@@ -1,251 +1,252 @@
 [
     {
-        "from": {
-            "id": "10202078017888897",
-            "name": "Betsy Greer"
-        },
-        "link": "https://www.facebook.com/photo.php?fbid=10210460237879158&set=p.10210460237879158&type=3",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22552413_10210460237879158_321505550722634134_n.jpg?oh=78811019012dbe36fa4e5caa65caf026&oe=5A743235",
-        "created_time": "2017-10-21T15:33:54+0000",
-        "id": "214063962105637_827720987406595"
+        "state": "Greer",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": 0,
+        "fb_post_id": "214063962105637_827720987406595",
+        "timestamp_img": "2017-10-21T15:33:54+0000",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22552413_10210460237879158_321505550722634134_n.jpg?oh=78811019012dbe36fa4e5caa65caf026&oe=5A743235",
+        "geo_lat": 0.0
     },
     {
-        "from": {
-            "id": "214063962105637",
-            "name": "Lost Dogs Indiana"
-        },
-        "link": "https://www.facebook.com/LostDogsIndiana/photos/a.804347753077252.1073741905.214063962105637/827467690765258/?type=3",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22728691_827467690765258_8174980113973668386_n.jpg?oh=1f285d91f497b1c23b15a919152e4c87&oe=5A666607",
-        "created_time": "2017-10-21T01:54:30+0000",
-        "id": "214063962105637_827467724098588"
+        "state": "Dogs",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": "7733222644",
+        "fb_post_id": "214063962105637_827467724098588",
+        "timestamp_img": "2017-10-21T01:54:30+0000",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22728691_827467690765258_8174980113973668386_n.jpg?oh=1f285d91f497b1c23b15a919152e4c87&oe=5A666607",
+        "geo_lat": 0.0
     },
     {
-        "from": {
-            "id": "10203962804103172",
-            "name": "Janelle Melendez- Campos"
-        },
-        "link": "https://www.facebook.com/photo.php?fbid=10212674192242431&set=p.10212674192242431&type=3",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22519606_10212674192242431_6741852913784546543_n.jpg?oh=25ea80233cf1682b740472f9818806ef&oe=5A828DC8",
-        "created_time": "2017-10-20T22:46:27+0000",
-        "id": "214063962105637_827417524103608"
+        "state": "Melendez-",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": 0,
+        "fb_post_id": "214063962105637_827417524103608",
+        "timestamp_img": "2017-10-20T22:46:27+0000",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22519606_10212674192242431_6741852913784546543_n.jpg?oh=25ea80233cf1682b740472f9818806ef&oe=5A828DC8",
+        "geo_lat": 0.0
     },
     {
-        "from": {
-            "id": "214063962105637",
-            "name": "Lost Dogs Indiana"
-        },
-        "link": "https://www.facebook.com/LostDogsIndiana/photos/a.578194519025911.1073741889.214063962105637/827386470773380/?type=3",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22540200_827386470773380_3320256074009161557_n.png?oh=f5a4c1bd33f176e1b3379dee0bed8040&oe=5A6E539D",
-        "created_time": "2017-10-20T20:54:04+0000",
-        "id": "214063962105637_827386544106706"
+        "state": "Dogs",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": null,
+        "fb_post_id": "214063962105637_827386544106706",
+        "timestamp_img": "2017-10-20T20:54:04+0000",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22540200_827386470773380_3320256074009161557_n.png?oh=f5a4c1bd33f176e1b3379dee0bed8040&oe=5A6E539D",
+        "geo_lat": 0.0
     },
     {
-        "from": {
-            "id": "10209218090147262",
-            "name": "Alex Bensley"
-        },
-        "link": "https://www.facebook.com/photo.php?fbid=10213528431743108&set=p.10213528431743108&type=3",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22528134_10213528431743108_7994343609564613871_n.jpg?oh=6a2e87dd164ebf60e4cbf0ec9184a7f0&oe=5A72EC65",
-        "created_time": "2017-10-20T20:51:25+0000",
-        "id": "214063962105637_827385980773429"
+        "state": "Bensley",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": 0,
+        "fb_post_id": "214063962105637_827385980773429",
+        "timestamp_img": "2017-10-20T20:51:25+0000",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22528134_10213528431743108_7994343609564613871_n.jpg?oh=6a2e87dd164ebf60e4cbf0ec9184a7f0&oe=5A72EC65",
+        "geo_lat": 0.0
     },
     {
-        "from": {
-            "id": "214063962105637",
-            "name": "Lost Dogs Indiana"
-        },
-        "link": "https://www.facebook.com/LostDogsIndiana/photos/a.578194519025911.1073741889.214063962105637/827385057440188/?type=3",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22549826_827385057440188_7550636778734032589_n.png?oh=b30597b8bb98a8405228165620716396&oe=5A61B6D0",
-        "created_time": "2017-10-20T20:47:58+0000",
-        "id": "214063962105637_827385080773519"
+        "state": "Dogs",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": null,
+        "fb_post_id": "214063962105637_827385080773519",
+        "timestamp_img": "2017-10-20T20:47:58+0000",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22549826_827385057440188_7550636778734032589_n.png?oh=b30597b8bb98a8405228165620716396&oe=5A61B6D0",
+        "geo_lat": 0.0
     },
     {
-        "from": {
-            "id": "214063962105637",
-            "name": "Lost Dogs Indiana"
-        },
-        "link": "https://www.facebook.com/LostDogsIndiana/photos/a.804347753077252.1073741905.214063962105637/827373870774640/?type=3",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22528461_827373870774640_2787676864250581504_n.png?oh=53e00efd08d86de6ffb86ae2ec705f23&oe=5A692562",
-        "created_time": "2017-10-20T20:13:11+0000",
-        "id": "214063962105637_827373914107969"
+        "state": "Dogs",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": "2703702538",
+        "fb_post_id": "214063962105637_827373914107969",
+        "timestamp_img": "2017-10-20T20:13:11+0000",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22528461_827373870774640_2787676864250581504_n.png?oh=53e00efd08d86de6ffb86ae2ec705f23&oe=5A692562",
+        "geo_lat": 0.0
     },
     {
-        "link": "https://www.timeslive.co.za/news/south-africa/2017-10-16-beware-social-media-scammers-when-posting-a-reward-for-lost-pets/",
-        "description": "This article backs up our recommendation to NOT offer a reward online for your missing pet.  In addition, we want to remind you that you do not need to pay any website or service to list your missing pet.  There are many, many FREE services like HelpingLostPets.com that will list your pet for FREE. And we are also partnered with many amazing volunteer groups across the country.\n\nhttps://www.timeslive.co.za/news/south-africa/2017-10-16-beware-social-media-scammers-when-posting-a-reward-for-lost-pets/",
-        "from": {
-            "id": "214063962105637",
-            "name": "Lost Dogs Indiana"
-        },
-        "created_time": "2017-10-20T16:25:41+0000",
-        "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQB_GMq7EuxjVdq-&w=130&h=130&url=https%3A%2F%2Flh3.googleusercontent.com%2FxdueXhNlC5WHrs6epxdOJn3O2TTH5wCEq-y2AyQaM2SD7OxEludQ1reSIVXqdQxvU9jhHFymcfh1NLCM_6HmjA%3Ds1000&cfs=1&_nc_hash=AQCKMEIV1GmxvKTc",
-        "id": "214063962105637_827299570782070"
+        "state": "Dogs",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": 0,
+        "fb_post_id": "214063962105637_827299570782070",
+        "timestamp_img": "2017-10-20T16:25:41+0000",
+        "img_url": "https://external.xx.fbcdn.net/safe_image.php?d=AQB_GMq7EuxjVdq-&w=130&h=130&url=https%3A%2F%2Flh3.googleusercontent.com%2FxdueXhNlC5WHrs6epxdOJn3O2TTH5wCEq-y2AyQaM2SD7OxEludQ1reSIVXqdQxvU9jhHFymcfh1NLCM_6HmjA%3Ds1000&cfs=1&_nc_hash=AQCKMEIV1GmxvKTc",
+        "geo_lat": 0.0
     },
     {
-        "link": "https://www.facebook.com/HelpingLostPets/photos/a.205071629551749.54071.122576304467949/1630679200324311/?type=3",
-        "description": "We meet people every day that would climb a mountain to find their missing pet. This is why we are so driven to get EVERY LOST AND FOUND PET LISTED ON ONE Database.\n\nWe have partnered with so many amazing volunteer groups that are helping across the country. In addition, our Matchmakers group is growing. \n\nIf you have a missing pet and you have not listed with us, you can list for free, The next Match made might be for your pet. Please use this link to list: http://www.HelpinglostPets.com/PET\n\nAre you someone that likes to match lost and found pets? Join our Matchmakers group and we will teach you how to use HelpingLostPets.com. Just email us at info@helpinglostpets.com",
-        "from": {
-            "id": "214063962105637",
-            "name": "Lost Dogs Indiana"
-        },
-        "created_time": "2017-10-20T12:59:54+0000",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22550039_1630679200324311_6466369115228797995_n.jpg?oh=95914a86e0b92cd043e4d3a53a680b06&oe=5A6E6F75",
-        "id": "214063962105637_827117530800274"
+        "state": "Dogs",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": 0,
+        "fb_post_id": "214063962105637_827117530800274",
+        "timestamp_img": "2017-10-20T12:59:54+0000",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22550039_1630679200324311_6466369115228797995_n.jpg?oh=95914a86e0b92cd043e4d3a53a680b06&oe=5A6E6F75",
+        "geo_lat": 0.0
     },
     {
-        "from": {
-            "id": "10203962804103172",
-            "name": "Janelle Melendez- Campos"
-        },
-        "link": "https://www.facebook.com/photo.php?fbid=10212659376672051&set=p.10212659376672051&type=3",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22549717_10212659376672051_7061774673025608657_n.jpg?oh=18f1b9cb833eaf335a33a2fb150ed030&oe=5A6AA3EF",
-        "created_time": "2017-10-18T21:16:31+0000",
-        "id": "214063962105637_826190487559645"
+        "state": "Melendez-",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": 0,
+        "fb_post_id": "214063962105637_826190487559645",
+        "timestamp_img": "2017-10-18T21:16:31+0000",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22549717_10212659376672051_7061774673025608657_n.jpg?oh=18f1b9cb833eaf335a33a2fb150ed030&oe=5A6AA3EF",
+        "geo_lat": 0.0
     },
     {
-        "from": {
-            "id": "269143883607318",
-            "name": "Benny Brindle"
-        },
-        "link": "https://www.facebook.com/photo.php?fbid=267994377055602&set=p.267994377055602&type=3",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22491964_267994377055602_1921863572488486516_n.jpg?oh=169f7517c4f1da46a7bb58d1adfd110a&oe=5A7AB78A",
-        "created_time": "2017-10-18T02:13:37+0000",
-        "id": "214063962105637_825780774267283"
+        "state": "Brindle",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": 0,
+        "fb_post_id": "214063962105637_825780774267283",
+        "timestamp_img": "2017-10-18T02:13:37+0000",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22491964_267994377055602_1921863572488486516_n.jpg?oh=169f7517c4f1da46a7bb58d1adfd110a&oe=5A7AB78A",
+        "geo_lat": 0.0
     },
     {
-        "from": {
-            "id": "1246110268748462",
-            "name": "Irene Rutkowski Brack"
-        },
-        "created_time": "2017-10-17T21:31:16+0000",
-        "id": "214063962105637_825712340940793"
+        "state": "Rutkowski",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": 0,
+        "fb_post_id": "214063962105637_825712340940793",
+        "timestamp_img": "2017-10-17T21:31:16+0000",
+        "img_url": "none",
+        "geo_lat": 0.0
     },
     {
-        "link": "https://www.facebook.com/GA.Lost.Dogs/photos/a.396534377150592.1073741828.388916371245726/1117635025040520/?type=3",
-        "description": "It was a match!!!\n\nA dog picked up from Walton County Animal Control and her listing uploaded to helpinglostpets.com and shared to the public. An owner filing a lost report with the shelter via the helpinglostpets.com system and the same alert going out to the public. This is what a match looks like with helpinglostpets.com and this system helped Hartley get home today!\n\nThank you to everyone who shared and to Walton County Animal Control for their continued use of the program! ONE central database for lost and found pets does get more pets home!\n\nTo learn more about helpinglostpets.com and to see how it can help your shelter, please watch this video from Walton County Animal Control on all the benefits of HeLP.\n\nhttps://www.youtube.com/embed/BHNO0OO3OVE\n\nTo add your shelter today, go to: www.HelpingLostPets.com/ORG",
-        "from": {
-            "id": "214063962105637",
-            "name": "Lost Dogs Indiana"
-        },
-        "created_time": "2017-10-17T20:14:09+0000",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22489965_1117635025040520_8357408286027593182_n.png?oh=1b7be73a2f6537e553153570f6991748&oe=5A68ACDF",
-        "id": "214063962105637_825687280943299"
+        "state": "Dogs",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": 0,
+        "fb_post_id": "214063962105637_825687280943299",
+        "timestamp_img": "2017-10-17T20:14:09+0000",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22489965_1117635025040520_8357408286027593182_n.png?oh=1b7be73a2f6537e553153570f6991748&oe=5A68ACDF",
+        "geo_lat": 0.0
     },
     {
-        "from": {
-            "id": "10202726161895188",
-            "name": "Jen Batson"
-        },
-        "link": "https://www.facebook.com/photo.php?fbid=10211034964010048&set=p.10211034964010048&type=3",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22519189_10211034964010048_2634449620259929342_n.jpg?oh=b285bad04284bf2d712ca51939f7a968&oe=5A8414B2",
-        "created_time": "2017-10-17T17:56:48+0000",
-        "id": "214063962105637_825634710948556"
+        "state": "Batson",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": 0,
+        "fb_post_id": "214063962105637_825634710948556",
+        "timestamp_img": "2017-10-17T17:56:48+0000",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22519189_10211034964010048_2634449620259929342_n.jpg?oh=b285bad04284bf2d712ca51939f7a968&oe=5A8414B2",
+        "geo_lat": 0.0
     },
     {
-        "link": "https://www.facebook.com/LostDogsOhio/photos/a.626324077554383.1073742014.193647440822051/801233643396758/?type=3",
-        "description": "Do you know this Dog? #YellowSprings (John Bryan State Park Area)  #OH 45387 #Greene Co. , #Found #Dog 10-15-2017!, Gender: Neutered Male #Mix Black / Tan / White/Found at a park today in Yellow Springs Ohio at a bike race. He is in bad shape, possibly missing for a while.\n\nCONTACT Sdave0711@frontier.com Phone: (260) 409-2107\n\nMore Info, Photos and to Contact: http://www.helpinglostpets.com/petdetail/?id=1992054\n\nTo see this pet\u2019s location on the HelpingLostPets Map: http://www.helpinglostpets.com/v2/?pid=1992054\n\nLet's get this dog home!\n#lostdogsohio  #HelpingLostPets",
-        "from": {
-            "id": "1240111316084117",
-            "name": "Dottie Frantsvog"
-        },
-        "created_time": "2017-10-17T03:31:07+0000",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22448223_801233643396758_9018923522162363758_n.png?oh=a29b4f7dc0260f0cde88f92cafa7acf9&oe=5A6B87C0",
-        "id": "214063962105637_825333150978712"
+        "state": "Frantsvog",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": "6263240775",
+        "fb_post_id": "214063962105637_825333150978712",
+        "timestamp_img": "2017-10-17T03:31:07+0000",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22448223_801233643396758_9018923522162363758_n.png?oh=a29b4f7dc0260f0cde88f92cafa7acf9&oe=5A6B87C0",
+        "geo_lat": 0.0
     },
     {
-        "from": {
-            "id": "750409448415143",
-            "name": "Brenda Bartok"
-        },
-        "created_time": "2017-10-15T20:11:03+0000",
-        "id": "214063962105637_824769887701705"
+        "state": "Bartok",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": 0,
+        "fb_post_id": "214063962105637_824769887701705",
+        "timestamp_img": "2017-10-15T20:11:03+0000",
+        "img_url": "none",
+        "geo_lat": 0.0
     },
     {
-        "link": "https://www.facebook.com/GA.Lost.Dogs/photos/a.396534377150592.1073741828.388916371245726/1115957435208279/?type=3",
-        "description": "TIP: DISTRIBUTING FLYERS AT COMMUNITY EVENTS\n\nFall is a great time for community events such as fall festivals. What better place to reach a large number of the members of your community and get the word out about your missing pet. When distributing flyers, use the FREE flyer templates from our site to increase awareness about your missing pet and about HelpingLostPets.com and Lost Dogs Georgia. This helps other pets in your community get back home.\n\nWe offer several different templates to choose from. \n\nTemplate #1 - With TearOffs\nTemplate #2 - Photo with detailed information\nTemplate #3 - With large photo\nTemplate #4 - Large photo\n\nAll templates allow you to select the 4-on-a-sheet printing option to cut and hand out. This is a great way to cut down on printing cost and get your flyer out to the public.\n\nTo list a lost or found pet and get a post on our page or the Lost Cats Georgia page and to get your FREE flyer, go to:\n\nwww.HelpingLostPets.com/PET\n\nTo see all our templates, go to: http://www.lostdogsgeorgia.org/tips-for-listing.html\n\nThe dog in this photo is Buster Sey Moore. He's missing from Covington, Georgia and is just one of the many lost dogs listed with us. We would love to help him and all the pets listed with us get back home.",
-        "from": {
-            "id": "214063962105637",
-            "name": "Lost Dogs Indiana"
-        },
-        "created_time": "2017-10-15T16:00:32+0000",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22405972_1115957435208279_6399124236609333310_n.png?oh=1b08a2ea5225753afb16fc9bd53dd190&oe=5A6E14D4",
-        "id": "214063962105637_824664934378867"
+        "state": "Dogs",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": 0,
+        "fb_post_id": "214063962105637_824664934378867",
+        "timestamp_img": "2017-10-15T16:00:32+0000",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22405972_1115957435208279_6399124236609333310_n.png?oh=1b08a2ea5225753afb16fc9bd53dd190&oe=5A6E14D4",
+        "geo_lat": 0.0
     },
     {
-        "from": {
-            "id": "1091111007612722",
-            "name": "Amber Austin"
-        },
-        "link": "https://www.facebook.com/photo.php?fbid=1559156274141524&set=p.1559156274141524&type=3",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22528105_1559156274141524_5104643178171222392_n.jpg?oh=79708805cbe29ec6cb0cf98bb9321ef3&oe=5A8449CE",
-        "created_time": "2017-10-15T15:48:20+0000",
-        "id": "214063962105637_824660024379358"
+        "state": "Austin",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": 0,
+        "fb_post_id": "214063962105637_824660024379358",
+        "timestamp_img": "2017-10-15T15:48:20+0000",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22528105_1559156274141524_5104643178171222392_n.jpg?oh=79708805cbe29ec6cb0cf98bb9321ef3&oe=5A8449CE",
+        "geo_lat": 0.0
     },
     {
-        "from": {
-            "id": "1436480136665971",
-            "name": "Brianne Morgan"
-        },
-        "created_time": "2017-10-14T23:09:50+0000",
-        "id": "214063962105637_824345971077430"
+        "state": "Morgan",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": null,
+        "fb_post_id": "214063962105637_824345971077430",
+        "timestamp_img": "2017-10-14T23:09:50+0000",
+        "img_url": "none",
+        "geo_lat": 0.0
     },
     {
-        "from": {
-            "id": "10153143593558365",
-            "name": "Julie Basden Pesich"
-        },
-        "link": "https://www.facebook.com/photo.php?fbid=10154964284993365&set=p.10154964284993365&type=3",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22405838_10154964284993365_7063758272382018169_n.jpg?oh=2608ceb06489bf17cfc0fb4e6b0366e5&oe=5A6E7AAE",
-        "created_time": "2017-10-14T05:09:33+0000",
-        "id": "214063962105637_823976984447662"
+        "state": "Basden",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": "2192562927",
+        "fb_post_id": "214063962105637_823976984447662",
+        "timestamp_img": "2017-10-14T05:09:33+0000",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22405838_10154964284993365_7063758272382018169_n.jpg?oh=2608ceb06489bf17cfc0fb4e6b0366e5&oe=5A6E7AAE",
+        "geo_lat": 0.0
     },
     {
-        "from": {
-            "id": "10152971132879124",
-            "name": "Dylan Mosack"
-        },
-        "link": "https://www.facebook.com/photo.php?fbid=10155888062099124&set=p.10155888062099124&type=3",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22406218_10155888062099124_7736158083010399451_n.jpg?oh=dd4297ec5dd5250bc94cb078af6a5181&oe=5A626F2F",
-        "created_time": "2017-10-13T17:09:04+0000",
-        "id": "214063962105637_823765687802125"
+        "state": "Mosack",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": 0,
+        "fb_post_id": "214063962105637_823765687802125",
+        "timestamp_img": "2017-10-13T17:09:04+0000",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22406218_10155888062099124_7736158083010399451_n.jpg?oh=dd4297ec5dd5250bc94cb078af6a5181&oe=5A626F2F",
+        "geo_lat": 0.0
     },
     {
-        "from": {
-            "id": "10154174900432818",
-            "name": "Mandy Jayne"
-        },
-        "link": "https://www.facebook.com/photo.php?fbid=10156877484192818&set=p.10156877484192818&type=3",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22366369_10156877484192818_1175003776452002354_n.jpg?oh=c902e7a809f0499dd180ebf39d2606a0&oe=5A7DD4FE",
-        "created_time": "2017-10-12T22:40:59+0000",
-        "id": "214063962105637_823416151170412"
+        "state": "Jayne",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": 0,
+        "fb_post_id": "214063962105637_823416151170412",
+        "timestamp_img": "2017-10-12T22:40:59+0000",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22366369_10156877484192818_1175003776452002354_n.jpg?oh=c902e7a809f0499dd180ebf39d2606a0&oe=5A7DD4FE",
+        "geo_lat": 0.0
     },
     {
-        "from": {
-            "id": "214063962105637",
-            "name": "Lost Dogs Indiana"
-        },
-        "link": "https://www.facebook.com/LostDogsIndiana/photos/a.804347753077252.1073741905.214063962105637/823396367839057/?type=3",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22489765_823396367839057_162806796310404201_n.png?oh=9f3618786e2d4ef97bfafabc30e75f78&oe=5A7BD594",
-        "created_time": "2017-10-12T21:29:01+0000",
-        "id": "214063962105637_823396467839047"
+        "state": "Dogs",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": "7656109497",
+        "fb_post_id": "214063962105637_823396467839047",
+        "timestamp_img": "2017-10-12T21:29:01+0000",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22489765_823396367839057_162806796310404201_n.png?oh=9f3618786e2d4ef97bfafabc30e75f78&oe=5A7BD594",
+        "geo_lat": 0.0
     },
     {
-        "from": {
-            "id": "214063962105637",
-            "name": "Lost Dogs Indiana"
-        },
-        "link": "https://www.facebook.com/LostDogsIndiana/photos/a.804347753077252.1073741905.214063962105637/823392231172804/?type=3",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22491731_823392231172804_3620496524613226885_n.png?oh=4d113cd33ef6c227e95b68877827911e&oe=5A754173",
-        "created_time": "2017-10-12T21:11:31+0000",
-        "id": "214063962105637_823392284506132"
+        "state": "Dogs",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": "2195776942",
+        "fb_post_id": "214063962105637_823392284506132",
+        "timestamp_img": "2017-10-12T21:11:31+0000",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22491731_823392231172804_3620496524613226885_n.png?oh=4d113cd33ef6c227e95b68877827911e&oe=5A754173",
+        "geo_lat": 0.0
     },
     {
-        "from": {
-            "id": "10203394574078112",
-            "name": "Taylor Nance"
-        },
-        "link": "https://www.facebook.com/photo.php?fbid=10212196067389944&set=p.10212196067389944&type=3",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22405596_10212196067389944_9052738296175598549_n.jpg?oh=07110a69014f9ae9c18f16f3799e88ee&oe=5A81BB31",
-        "created_time": "2017-10-12T14:33:29+0000",
-        "id": "214063962105637_823255011186526"
+        "state": "Nance",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": 0,
+        "fb_post_id": "214063962105637_823255011186526",
+        "timestamp_img": "2017-10-12T14:33:29+0000",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22405596_10212196067389944_9052738296175598549_n.jpg?oh=07110a69014f9ae9c18f16f3799e88ee&oe=5A81BB31",
+        "geo_lat": 0.0
     }
 ]

@@ -1,290 +1,252 @@
 [
     {
-        "from": {
-            "id": "462486770625209",
-            "name": "Lost Dogs Maine"
-        },
-        "link": "https://www.facebook.com/LostDogsMaine/photos/a.530163560524196.1073741835.462486770625209/736339366573280/?type=3",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22539907_736339366573280_6775762734508320991_n.png?oh=be5be9b5e57882694bfb7bc3ac154cfd&oe=5A7527B2",
-        "created_time": "2017-10-21T14:43:50+0000",
-        "id": "462486770625209_736339613239922"
+        "state": "Dogs",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": 0,
+        "fb_post_id": "462486770625209_736339613239922",
+        "timestamp_img": "2017-10-21T14:43:50+0000",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22539907_736339366573280_6775762734508320991_n.png?oh=be5be9b5e57882694bfb7bc3ac154cfd&oe=5A7527B2",
+        "geo_lat": 0.0
     },
     {
-        "link": "https://www.timeslive.co.za/news/south-africa/2017-10-16-beware-social-media-scammers-when-posting-a-reward-for-lost-pets/",
-        "description": "This article backs up our recommendation to NOT offer a reward online for your missing pet.  In addition, we want to remind you that you do not need to pay any website or service to list your missing pet.  There are many, many FREE services like HelpingLostPets.com that will list your pet for FREE. And we are also partnered with many amazing volunteer groups across the country.\n\nhttps://www.timeslive.co.za/news/south-africa/2017-10-16-beware-social-media-scammers-when-posting-a-reward-for-lost-pets/",
-        "from": {
-            "id": "462486770625209",
-            "name": "Lost Dogs Maine"
-        },
-        "created_time": "2017-10-20T16:27:46+0000",
-        "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQB_GMq7EuxjVdq-&w=130&h=130&url=https%3A%2F%2Flh3.googleusercontent.com%2FxdueXhNlC5WHrs6epxdOJn3O2TTH5wCEq-y2AyQaM2SD7OxEludQ1reSIVXqdQxvU9jhHFymcfh1NLCM_6HmjA%3Ds1000&cfs=1&_nc_hash=AQCKMEIV1GmxvKTc",
-        "id": "462486770625209_735957706611446"
+        "state": "Dogs",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": 0,
+        "fb_post_id": "462486770625209_735957706611446",
+        "timestamp_img": "2017-10-20T16:27:46+0000",
+        "img_url": "https://external.xx.fbcdn.net/safe_image.php?d=AQB_GMq7EuxjVdq-&w=130&h=130&url=https%3A%2F%2Flh3.googleusercontent.com%2FxdueXhNlC5WHrs6epxdOJn3O2TTH5wCEq-y2AyQaM2SD7OxEludQ1reSIVXqdQxvU9jhHFymcfh1NLCM_6HmjA%3Ds1000&cfs=1&_nc_hash=AQCKMEIV1GmxvKTc",
+        "geo_lat": 0.0
     },
     {
-        "link": "https://www.facebook.com/HelpingLostPets/photos/a.205071629551749.54071.122576304467949/1630679200324311/?type=3",
-        "description": "We meet people every day that would climb a mountain to find their missing pet. This is why we are so driven to get EVERY LOST AND FOUND PET LISTED ON ONE Database.\n\nWe have partnered with so many amazing volunteer groups that are helping across the country. In addition, our Matchmakers group is growing. \n\nIf you have a missing pet and you have not listed with us, you can list for free, The next Match made might be for your pet. Please use this link to list: http://www.HelpinglostPets.com/PET\n\nAre you someone that likes to match lost and found pets? Join our Matchmakers group and we will teach you how to use HelpingLostPets.com. Just email us at info@helpinglostpets.com",
-        "from": {
-            "id": "462486770625209",
-            "name": "Lost Dogs Maine"
-        },
-        "created_time": "2017-10-20T13:15:09+0000",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22550039_1630679200324311_6466369115228797995_n.jpg?oh=95914a86e0b92cd043e4d3a53a680b06&oe=5A6E6F75",
-        "id": "462486770625209_735865359954014"
+        "state": "Dogs",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": 0,
+        "fb_post_id": "462486770625209_735865359954014",
+        "timestamp_img": "2017-10-20T13:15:09+0000",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22550039_1630679200324311_6466369115228797995_n.jpg?oh=95914a86e0b92cd043e4d3a53a680b06&oe=5A6E6F75",
+        "geo_lat": 0.0
     },
     {
-        "link": "https://www.facebook.com/WaldoCountyPetFoodPantry/",
-        "description": "A Non Profit org. accepting donations of food, supplies and money to help Waldo County residents feed their pets.Sponsored by the VFW Post 3108. ",
-        "from": {
-            "id": "462486770625209",
-            "name": "Lost Dogs Maine"
-        },
-        "created_time": "2017-10-19T22:01:59+0000",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-1/p200x200/21432697_896985567120290_2978513315118887236_n.jpg?oh=e0e2fd3b9b11015be1d88c100af2bf5a&oe=5A72094A",
-        "id": "462486770625209_735608993312984"
+        "state": "Dogs",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": 0,
+        "fb_post_id": "462486770625209_735608993312984",
+        "timestamp_img": "2017-10-19T22:01:59+0000",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-1/p200x200/21432697_896985567120290_2978513315118887236_n.jpg?oh=e0e2fd3b9b11015be1d88c100af2bf5a&oe=5A72094A",
+        "geo_lat": 0.0
     },
     {
-        "link": "https://www.facebook.com/permalink.php?story_fbid=1966969686914468&id=1586435511634556",
-        "description": "Vaccination Clinic: Saturday, October 28th 12:30-2 p.m. EAST Millinocket Fire/Police Station *Please note different time*",
-        "from": {
-            "id": "462486770625209",
-            "name": "Lost Dogs Maine"
-        },
-        "created_time": "2017-10-19T18:24:26+0000",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-1/c39.0.100.100/p100x100/10410716_1586440651634042_5359743962654657578_n.jpg?oh=a1bc000788c2ada4fe2d5c241de876f6&oe=5A6697B0",
-        "id": "462486770625209_735546899985860"
+        "state": "Dogs",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": 0,
+        "fb_post_id": "462486770625209_735546899985860",
+        "timestamp_img": "2017-10-19T18:24:26+0000",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-1/c39.0.100.100/p100x100/10410716_1586440651634042_5359743962654657578_n.jpg?oh=a1bc000788c2ada4fe2d5c241de876f6&oe=5A6697B0",
+        "geo_lat": 0.0
     },
     {
-        "link": "https://www.facebook.com/SouthSuburbanHumane/photos/a.227320235106.276715.223022760106/10159691860235107/?type=3",
-        "description": "You know we love a good microchip story!  Oreo came in as a stray 10 year old cat to SSHS.  He was microchipped and we tracked the owner to Arizona.  Turns out that his owners divorced and Oreo ended up with the ex-husband in Chicago.  However, he was given away and then got lost.  When we talked to his original mom in AZ, she moved heaven and earth to get him back and called her friend, Paul, who is a Captain with Southwest Airlines.  Paul met staff at Midway tonight and Oreo is flying home to his mom in AZ!",
-        "from": {
-            "id": "462486770625209",
-            "name": "Lost Dogs Maine"
-        },
-        "created_time": "2017-10-19T16:55:20+0000",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22528089_10159691860235107_2235209372502516938_n.jpg?oh=1eb799d403f1f6b13b2d078f76a61a03&oe=5A7A8F9B",
-        "id": "462486770625209_735511776656039"
+        "state": "Dogs",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": 0,
+        "fb_post_id": "462486770625209_735511776656039",
+        "timestamp_img": "2017-10-19T16:55:20+0000",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22528089_10159691860235107_2235209372502516938_n.jpg?oh=1eb799d403f1f6b13b2d078f76a61a03&oe=5A7A8F9B",
+        "geo_lat": 0.0
     },
     {
-        "link": "http://www.channel3000.com/news/neglected-emaciated-dog-found-in-rural-green-bay-area-humane-society-says/639974667",
-        "description": "A lost Door County pet is back with its family after it was found miles away in another county, officials said. ",
-        "from": {
-            "id": "462486770625209",
-            "name": "Lost Dogs Maine"
-        },
-        "created_time": "2017-10-19T04:14:00+0000",
-        "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCYKfAGVUk2jho5&w=130&h=130&url=http%3A%2F%2Fmedia.channel3000.com%2Fmmm-wisctv-media-us-east-1%2Fphoto%2F2017%2F10%2F17%2FGertrude%2520%2520dog%25201280_1508270734018_9002325_ver1.0_1280_720.jpg&cfs=1&_nc_hash=AQBnkS0SxZc9FUrs",
-        "id": "462486770625209_735049163368967"
+        "state": "Dogs",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": null,
+        "fb_post_id": "462486770625209_735049163368967",
+        "timestamp_img": "2017-10-19T04:14:00+0000",
+        "img_url": "https://external.xx.fbcdn.net/safe_image.php?d=AQCYKfAGVUk2jho5&w=130&h=130&url=http%3A%2F%2Fmedia.channel3000.com%2Fmmm-wisctv-media-us-east-1%2Fphoto%2F2017%2F10%2F17%2FGertrude%2520%2520dog%25201280_1508270734018_9002325_ver1.0_1280_720.jpg&cfs=1&_nc_hash=AQBnkS0SxZc9FUrs",
+        "geo_lat": 0.0
     },
     {
-        "from": {
-            "id": "1425750074410234",
-            "name": "Sara Graves"
-        },
-        "link": "https://www.facebook.com/photo.php?fbid=1928798660772037&set=p.1928798660772037&type=3",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22491837_1928798660772037_6623345724034163963_n.jpg?oh=2ea09519da84e2585d01f3d1b9252e32&oe=5A6C4751",
-        "created_time": "2017-10-18T22:03:27+0000",
-        "id": "462486770625209_735157280024822"
+        "state": "Graves",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": 0,
+        "fb_post_id": "462486770625209_735157280024822",
+        "timestamp_img": "2017-10-18T22:03:27+0000",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22491837_1928798660772037_6623345724034163963_n.jpg?oh=2ea09519da84e2585d01f3d1b9252e32&oe=5A6C4751",
+        "geo_lat": 0.0
     },
     {
-        "place": {
-            "location": {
-                "longitude": -70.8922,
-                "latitude": 44.1267,
-                "city": "Lovell",
-                "state": "ME",
-                "zip": "04051",
-                "country": "United States"
-            },
-            "id": "104134619623365",
-            "name": "Lovell, ME, United States"
-        },
-        "link": "https://www.facebook.com/LostDogsMaine/photos/a.469748519899034.1073741828.462486770625209/735107926696424/?type=3",
-        "from": {
-            "id": "462486770625209",
-            "name": "Lost Dogs Maine"
-        },
-        "created_time": "2017-10-18T19:13:20+0000",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22491476_735107926696424_8522196156210279252_n.png?oh=0b0668fdaef75360c3cf242bf6cb871a&oe=5A648FF5",
-        "id": "462486770625209_735109810029569"
+        "state": "Dogs",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": "2078901925",
+        "fb_post_id": "462486770625209_735109810029569",
+        "timestamp_img": "2017-10-18T19:13:20+0000",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22491476_735107926696424_8522196156210279252_n.png?oh=0b0668fdaef75360c3cf242bf6cb871a&oe=5A648FF5",
+        "geo_lat": 0.0
     },
     {
-        "link": "https://www.facebook.com/FiveSibes/photos/a.182108141840628.57292.181529415231834/1735438243174269/?type=3",
-        "description": "A special 2-part #FiveSibes #TheSibeVibe #LostDog series on @DogWorksRadio:  \"Help me! I'm Lost! - What To Do If You've Lost or Found a Dog\" hosted by Hudson Valley's award-winning author DOROTHY WILLS-RAFTERY featuring guests KATHY POBLOSKIE, director and co-founder of Lost Dogs of Wisconsin (LDoW) & co-founder of Lost Dogs of America and BARB MCDONALD, volunteer at LDoW and admin of Lost/found Husky Dogs. \n\nTo listen to PART 1, visit: http://dogworksradio.com/the-sibe-vibe-what-if-you-have-lost-or-found-a-dog/\n\nTo listen to PART 2, visit:  http://dogworksradio.com/what-if-you-have-lost-or-found-a-dog-part-2/  \n\nPlease subscribe to Dog Works Radio on iTunes to hear all the shows, including \"The Sibe Vibe!\"",
-        "from": {
-            "id": "462486770625209",
-            "name": "Lost Dogs Maine"
-        },
-        "created_time": "2017-10-18T14:34:46+0000",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22448151_1735438243174269_4993792430676221215_n.jpg?oh=80e5c91de16b0676e9758f851d4860b3&oe=5A7EDE4C",
-        "id": "462486770625209_735012356705981"
+        "state": "Dogs",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": 0,
+        "fb_post_id": "462486770625209_735012356705981",
+        "timestamp_img": "2017-10-18T14:34:46+0000",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22448151_1735438243174269_4993792430676221215_n.jpg?oh=80e5c91de16b0676e9758f851d4860b3&oe=5A7EDE4C",
+        "geo_lat": 0.0
     },
     {
-        "from": {
-            "id": "462486770625209",
-            "name": "Lost Dogs Maine"
-        },
-        "link": "https://www.facebook.com/LostDogsMaine/photos/a.469748519899034.1073741828.462486770625209/734788533395030/?type=3",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22519539_734788533395030_1493784162929126311_n.png?oh=158382f6a10dea60eb365b1944fda9f5&oe=5A879CE6",
-        "created_time": "2017-10-18T00:21:44+0000",
-        "id": "462486770625209_734788643395019"
+        "state": "Dogs",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": 0,
+        "fb_post_id": "462486770625209_734788643395019",
+        "timestamp_img": "2017-10-18T00:21:44+0000",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22519539_734788533395030_1493784162929126311_n.png?oh=158382f6a10dea60eb365b1944fda9f5&oe=5A879CE6",
+        "geo_lat": 0.0
     },
     {
-        "from": {
-            "id": "691285854241757",
-            "name": "Danielle Moore"
-        },
-        "link": "https://www.facebook.com/photo.php?fbid=1524267517610249&set=p.1524267517610249&type=3",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/q81/s130x130/22490069_1524267517610249_7116326860163307338_n.jpg?oh=b86a8ebfcbc123e62c68ecae5eef0d00&oe=5A731EC4",
-        "created_time": "2017-10-18T00:02:58+0000",
-        "id": "462486770625209_734785153395368"
+        "state": "Moore",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": 0,
+        "fb_post_id": "462486770625209_734785153395368",
+        "timestamp_img": "2017-10-18T00:02:58+0000",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/q81/s130x130/22490069_1524267517610249_7116326860163307338_n.jpg?oh=b86a8ebfcbc123e62c68ecae5eef0d00&oe=5A731EC4",
+        "geo_lat": 0.0
     },
     {
-        "link": "https://www.facebook.com/GA.Lost.Dogs/photos/a.396534377150592.1073741828.388916371245726/1117635025040520/?type=3",
-        "description": "It was a match!!!\n\nA dog picked up from Walton County Animal Control and her listing uploaded to helpinglostpets.com and shared to the public. An owner filing a lost report with the shelter via the helpinglostpets.com system and the same alert going out to the public. This is what a match looks like with helpinglostpets.com and this system helped Hartley get home today!\n\nThank you to everyone who shared and to Walton County Animal Control for their continued use of the program! ONE central database for lost and found pets does get more pets home!\n\nTo learn more about helpinglostpets.com and to see how it can help your shelter, please watch this video from Walton County Animal Control on all the benefits of HeLP.\n\nhttps://www.youtube.com/embed/BHNO0OO3OVE\n\nTo add your shelter today, go to: www.HelpingLostPets.com/ORG",
-        "from": {
-            "id": "462486770625209",
-            "name": "Lost Dogs Maine"
-        },
-        "created_time": "2017-10-17T21:10:20+0000",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22489965_1117635025040520_8357408286027593182_n.png?oh=1b7be73a2f6537e553153570f6991748&oe=5A68ACDF",
-        "id": "462486770625209_734733330067217"
+        "state": "Dogs",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": 0,
+        "fb_post_id": "462486770625209_734733330067217",
+        "timestamp_img": "2017-10-17T21:10:20+0000",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22489965_1117635025040520_8357408286027593182_n.png?oh=1b7be73a2f6537e553153570f6991748&oe=5A68ACDF",
+        "geo_lat": 0.0
     },
     {
-        "link": "https://www.timeslive.co.za/news/south-africa/2017-10-16-beware-social-media-scammers-when-posting-a-reward-for-lost-pets/",
-        "description": "This article collaborates why Lost Dogs of America does not recommend posting rewards.\n\"According to the Better Business Bureau\u201a based in the United States\u201a more pet owners are being scammed out of rewards due to the increasing \"missing cats and dogs posts\" on social media. In a statement last month\u201a the bureau description of the scam mirrored Sharp's experience.\n\"Although you may be tempted to do anything to see your dog or cat returned safely\u201a don't pay up! The scammer doesn't have your pet. They will just take the money and disappear.\"\"\nhttps://www.timeslive.co.za/news/south-africa/2017-10-16-beware-social-media-scammers-when-posting-a-reward-for-lost-pets/",
-        "from": {
-            "id": "462486770625209",
-            "name": "Lost Dogs Maine"
-        },
-        "created_time": "2017-10-17T19:18:24+0000",
-        "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQB_GMq7EuxjVdq-&w=130&h=130&url=https%3A%2F%2Flh3.googleusercontent.com%2FxdueXhNlC5WHrs6epxdOJn3O2TTH5wCEq-y2AyQaM2SD7OxEludQ1reSIVXqdQxvU9jhHFymcfh1NLCM_6HmjA%3Ds1000&cfs=1&_nc_hash=AQCKMEIV1GmxvKTc",
-        "id": "462486770625209_734709646736252"
+        "state": "Dogs",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": 0,
+        "fb_post_id": "462486770625209_734709646736252",
+        "timestamp_img": "2017-10-17T19:18:24+0000",
+        "img_url": "https://external.xx.fbcdn.net/safe_image.php?d=AQB_GMq7EuxjVdq-&w=130&h=130&url=https%3A%2F%2Flh3.googleusercontent.com%2FxdueXhNlC5WHrs6epxdOJn3O2TTH5wCEq-y2AyQaM2SD7OxEludQ1reSIVXqdQxvU9jhHFymcfh1NLCM_6HmjA%3Ds1000&cfs=1&_nc_hash=AQCKMEIV1GmxvKTc",
+        "geo_lat": 0.0
     },
     {
-        "from": {
-            "id": "462486770625209",
-            "name": "Lost Dogs Maine"
-        },
-        "link": "https://www.facebook.com/LostDogsMaine/photos/a.530163560524196.1073741835.462486770625209/734613533412530/?type=3",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22491861_734613533412530_3296427058096047221_n.png?oh=fd8d9c376328ace55cec59f4c6acebde&oe=5A6E3315",
-        "created_time": "2017-10-17T15:34:24+0000",
-        "id": "462486770625209_734613770079173"
+        "state": "Dogs",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": 0,
+        "fb_post_id": "462486770625209_734613770079173",
+        "timestamp_img": "2017-10-17T15:34:24+0000",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22491861_734613533412530_3296427058096047221_n.png?oh=fd8d9c376328ace55cec59f4c6acebde&oe=5A6E3315",
+        "geo_lat": 0.0
     },
     {
-        "from": {
-            "id": "462486770625209",
-            "name": "Lost Dogs Maine"
-        },
-        "link": "https://www.facebook.com/LostDogsMaine/photos/a.530163560524196.1073741835.462486770625209/734600376747179/?type=3",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22489902_734600376747179_3550460870369192527_n.jpg?oh=bfa27df5479b2a43f477db8bd2c9d0ea&oe=5A634FB6",
-        "created_time": "2017-10-17T14:59:13+0000",
-        "id": "462486770625209_734600480080502"
+        "state": "Dogs",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": 0,
+        "fb_post_id": "462486770625209_734600480080502",
+        "timestamp_img": "2017-10-17T14:59:13+0000",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22489902_734600376747179_3550460870369192527_n.jpg?oh=bfa27df5479b2a43f477db8bd2c9d0ea&oe=5A634FB6",
+        "geo_lat": 0.0
     },
     {
-        "link": "https://www.facebook.com/LostDogsIllinois/photos/a.1763887237002086.1073742095.115100465214113/1779126062144870/?type=3",
-        "description": "Home at last! Tank - Pinscher-Miniature from #NorthAurora #IL is home safe & sound. Missing 10/15/2017. Reunited 10/16/2017. Thank you fan Jenn J. for getting the finder in contact with the owner and watching our page.  Tank was taken to the police station by a good samaritan and the owners picked him up this morning!  \"Tank enjoyed his ride home!\" Welcome home Tank!",
-        "from": {
-            "id": "462486770625209",
-            "name": "Lost Dogs Maine"
-        },
-        "created_time": "2017-10-16T21:46:38+0000",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22528203_1779126062144870_9117234615903612726_n.jpg?oh=6e38ce7a8d47b142a554271a47764e19&oe=5A67CF0F",
-        "id": "462486770625209_734298133444070"
+        "state": "Dogs",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": 0,
+        "fb_post_id": "462486770625209_734298133444070",
+        "timestamp_img": "2017-10-16T21:46:38+0000",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22528203_1779126062144870_9117234615903612726_n.jpg?oh=6e38ce7a8d47b142a554271a47764e19&oe=5A67CF0F",
+        "geo_lat": 0.0
     },
     {
-        "from": {
-            "id": "462486770625209",
-            "name": "Lost Dogs Maine"
-        },
-        "link": "http://www.lostdogsofamerica.org/",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-1/p200x200/22228601_730154890525061_8552213960728091929_n.png?oh=0ffda27dc0cd7ccf039e64c32f7a55b3&oe=5A6B0A2B",
-        "created_time": "2017-10-16T18:17:18+0000",
-        "id": "462486770625209_734229973450886"
+        "state": "Dogs",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": "5301635605",
+        "fb_post_id": "462486770625209_734229973450886",
+        "timestamp_img": "2017-10-16T18:17:18+0000",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-1/p200x200/22228601_730154890525061_8552213960728091929_n.png?oh=0ffda27dc0cd7ccf039e64c32f7a55b3&oe=5A6B0A2B",
+        "geo_lat": 0.0
     },
     {
-        "link": "https://www.facebook.com/permalink.php?story_fbid=1496304197116927&id=109573439123350",
-        "description": "UPCOMING SHOT CLINICS: \n1. Lagrange: October 28th at the Town Office: 9.30-10.30 a.m.\n2. East Millinocket: October 28th at the Public Safety Building: \n                               12.30-2 p.m.\n3. Lincoln: November 18th at the Town Garage: 9.30-11 a.m.\n4. Enfield: December 2nd at the Town Garage: 9.30-11 a.m.\nPRICES: Rabies:$20; FeLv: $20; Kennel Cough: $10; \n               Distemper: $15; Lyme: $25",
-        "from": {
-            "id": "462486770625209",
-            "name": "Lost Dogs Maine"
-        },
-        "created_time": "2017-10-16T17:27:22+0000",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-1/p100x100/14457248_1130282723719078_7641381238313637724_n.jpg?oh=387bf294ed11079caff568945b3f7bf2&oe=5A72DAD8",
-        "id": "462486770625209_734214286785788"
+        "state": "Dogs",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": 0,
+        "fb_post_id": "462486770625209_734214286785788",
+        "timestamp_img": "2017-10-16T17:27:22+0000",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-1/p100x100/14457248_1130282723719078_7641381238313637724_n.jpg?oh=387bf294ed11079caff568945b3f7bf2&oe=5A72DAD8",
+        "geo_lat": 0.0
     },
     {
-        "link": "https://www.facebook.com/LostDogsMaine/photos/a.508781635995722.1073741834.462486770625209/723450337862183/?type=3",
-        "description": "10/16/17 BRISTOL IS STILL MISSING WITH NO SIGHTINGS PLEASE SHARE HER FLYER TO GET HER HOME #Bristol Samantha #Springfield (Ghost rd & rt 6) Female #GreatDaneGreatPyrenees Mix Black / White/Please who ever reads this, my baby is lost. She is only 4.5 months old, is kinda shy, so I know that she is scared without her mommy. She is a big girl for her age, around 60 lbs.\nPhone: (207) 290-7256\nMore Info, Photos and to Contact: http://www.helpinglostpets.com/petdetail/?id=1942643\nBangor Humane Society, Penobscot Valley Humane Society,",
-        "from": {
-            "id": "462486770625209",
-            "name": "Lost Dogs Maine"
-        },
-        "created_time": "2017-10-16T16:11:12+0000",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/21686241_723450337862183_3288215149935885676_n.jpg?oh=2d8ea15747b8b22a744c062820d2f1c4&oe=5A6DC433",
-        "id": "462486770625209_734190720121478"
+        "state": "Dogs",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": 0,
+        "fb_post_id": "462486770625209_734190720121478",
+        "timestamp_img": "2017-10-16T16:11:12+0000",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/21686241_723450337862183_3288215149935885676_n.jpg?oh=2d8ea15747b8b22a744c062820d2f1c4&oe=5A6DC433",
+        "geo_lat": 0.0
     },
     {
-        "place": {
-            "location": {
-                "longitude": -70.8039,
-                "latitude": 43.8786,
-                "city": "Hiram",
-                "state": "ME",
-                "zip": "04041",
-                "country": "United States"
-            },
-            "id": "114190755258210",
-            "name": "Hiram, ME, United States"
-        },
-        "link": "https://www.facebook.com/LostDogsMaine/photos/a.508781635995722.1073741834.462486770625209/734032276803989/?type=3",
-        "from": {
-            "id": "462486770625209",
-            "name": "Lost Dogs Maine"
-        },
-        "created_time": "2017-10-16T10:02:21+0000",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22449802_734032276803989_4741179621227096123_n.jpg?oh=7cee9f9f098abc86e2309349e78177c6&oe=5A720FE4",
-        "id": "462486770625209_734032323470651"
+        "state": "Dogs",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": null,
+        "fb_post_id": "462486770625209_734032323470651",
+        "timestamp_img": "2017-10-16T10:02:21+0000",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22449802_734032276803989_4741179621227096123_n.jpg?oh=7cee9f9f098abc86e2309349e78177c6&oe=5A720FE4",
+        "geo_lat": 0.0
     },
     {
-        "link": "https://www.facebook.com/GA.Lost.Dogs/photos/a.396534377150592.1073741828.388916371245726/1115957435208279/?type=3",
-        "description": "TIP: DISTRIBUTING FLYERS AT COMMUNITY EVENTS\n\nFall is a great time for community events such as fall festivals. What better place to reach a large number of the members of your community and get the word out about your missing pet. When distributing flyers, use the FREE flyer templates from our site to increase awareness about your missing pet and about HelpingLostPets.com and Lost Dogs Georgia. This helps other pets in your community get back home.\n\nWe offer several different templates to choose from. \n\nTemplate #1 - With TearOffs\nTemplate #2 - Photo with detailed information\nTemplate #3 - With large photo\nTemplate #4 - Large photo\n\nAll templates allow you to select the 4-on-a-sheet printing option to cut and hand out. This is a great way to cut down on printing cost and get your flyer out to the public.\n\nTo list a lost or found pet and get a post on our page or the Lost Cats Georgia page and to get your FREE flyer, go to:\n\nwww.HelpingLostPets.com/PET\n\nTo see all our templates, go to: http://www.lostdogsgeorgia.org/tips-for-listing.html\n\nThe dog in this photo is Buster Sey Moore. He's missing from Covington, Georgia and is just one of the many lost dogs listed with us. We would love to help him and all the pets listed with us get back home.",
-        "from": {
-            "id": "462486770625209",
-            "name": "Lost Dogs Maine"
-        },
-        "created_time": "2017-10-15T16:07:10+0000",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22405972_1115957435208279_6399124236609333310_n.png?oh=1b08a2ea5225753afb16fc9bd53dd190&oe=5A6E14D4",
-        "id": "462486770625209_733740606833156"
+        "state": "Dogs",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": 0,
+        "fb_post_id": "462486770625209_733740606833156",
+        "timestamp_img": "2017-10-15T16:07:10+0000",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22405972_1115957435208279_6399124236609333310_n.png?oh=1b08a2ea5225753afb16fc9bd53dd190&oe=5A6E14D4",
+        "geo_lat": 0.0
     },
     {
-        "from": {
-            "id": "462486770625209",
-            "name": "Lost Dogs Maine"
-        },
-        "link": "https://www.facebook.com/LostDogsMaine/photos/a.530163560524196.1073741835.462486770625209/733352810205269/?type=3",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22406192_733352810205269_9108769289683260639_n.png?oh=2dd797f87b9e6fd37bd521a108f705b0&oe=5A86F073",
-        "created_time": "2017-10-15T05:01:00+0000",
-        "id": "462486770625209_733353476871869"
+        "state": "Dogs",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": 0,
+        "fb_post_id": "462486770625209_733353476871869",
+        "timestamp_img": "2017-10-15T05:01:00+0000",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22406192_733352810205269_9108769289683260639_n.png?oh=2dd797f87b9e6fd37bd521a108f705b0&oe=5A86F073",
+        "geo_lat": 0.0
     },
     {
-        "from": {
-            "id": "462486770625209",
-            "name": "Lost Dogs Maine"
-        },
-        "link": "https://www.facebook.com/LostDogsMaine/photos/a.530163560524196.1073741835.462486770625209/733346823539201/?type=3",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22406184_733346823539201_2823564969447330018_n.jpg?oh=3dae1529d29b3f65e91abe8dc980554b&oe=5A68BBDD",
-        "created_time": "2017-10-14T16:25:26+0000",
-        "id": "462486770625209_733346906872526"
+        "state": "Dogs",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": 0,
+        "fb_post_id": "462486770625209_733346906872526",
+        "timestamp_img": "2017-10-14T16:25:26+0000",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22406184_733346823539201_2823564969447330018_n.jpg?oh=3dae1529d29b3f65e91abe8dc980554b&oe=5A68BBDD",
+        "geo_lat": 0.0
     },
     {
-        "link": "https://www.facebook.com/theamybuxtonpetpantry/photos/a.236902853179693.1073741828.234791443390834/756843471185626/?type=3",
-        "description": "Oh...HELLO there!! We wanted to pass along to everyone that we are moving to our Fall/Winter hours starting tomorrow October 14th! We will be open from 9-10 a.m. during the Winter months! Pass along the post to others so everyone knows our NEW HOURS from 9-10 a.m. every 2nd and 4th Saturday of the month.",
-        "from": {
-            "id": "462486770625209",
-            "name": "Lost Dogs Maine"
-        },
-        "created_time": "2017-10-14T14:13:32+0000",
-        "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22366784_756843471185626_5896779042855969528_n.jpg?oh=6138bf75f109ad3430f42ee7a26d497d&oe=5A62100E",
-        "id": "462486770625209_733295646877652"
+        "state": "Dogs",
+        "geo_long": 0.0,
+        "nuetered": "none",
+        "phone_number": 0,
+        "fb_post_id": "462486770625209_733295646877652",
+        "timestamp_img": "2017-10-14T14:13:32+0000",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22366784_756843471185626_5896779042855969528_n.jpg?oh=6138bf75f109ad3430f42ee7a26d497d&oe=5A62100E",
+        "geo_lat": 0.0
     }
 ]
