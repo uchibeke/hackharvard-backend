@@ -9,14 +9,14 @@ def getDogByID(dog_id):
     return json.dumps(c.fetchone())
 
 
-def insertDog(geo_long, geo_lat, img_url, timestamp_img, nuetered=False):
+def insertDog(geo_long, geo_lat, img_url, timestamp_img, nuetered=False, fb_post_id="none"):
     c = db.cursor()
-    c.execute("INSERT INTO dogs (geo_long, geo_lat, img_url, timestamp_img, nuetered) VALUES (%s, %s, %s, %s, %s);"
-              ,(geo_long, geo_lat, img_url, timestamp_img, nuetered))
+    c.execute("INSERT INTO dogs (geo_long, geo_lat, img_url, timestamp_img, nuetered, fb_post_id) VALUES (%s, %s, %s, %s, %s, %s);"
+              ,(geo_long, geo_lat, img_url, timestamp_img, nuetered, fb_post_id))
     db.commit()
 
 
-def getDogByGeoTag(geo_long, geo_lang, radius):
+def getDogByGeoTag(geo_lat, geo_lang, lat_length, long_length):
     c = db.cursor()
     c.execute("SELECT ")
 
