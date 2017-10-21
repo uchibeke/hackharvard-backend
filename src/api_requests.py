@@ -1,6 +1,8 @@
 import pymysql.cursors
 import json
-db = pymysql.connect(host='40.71.253.77', passwd='RuffinitHarvard2017', user='root', db='Ruffinit', cursorclass=pymysql.cursors.DictCursor)
+
+db = pymysql.connect(host='40.71.253.77', passwd='RuffinitHarvard2017', user='root', db='Ruffinit',
+                     cursorclass=pymysql.cursors.DictCursor)
 
 
 def getDogByID(dog_id):
@@ -11,8 +13,18 @@ def getDogByID(dog_id):
 
 def insertDog(geo_long, geo_lat, img_url, timestamp_img, nuetered=False, fb_post_id="none", phoneNumber="none"):
     c = db.cursor()
-    c.execute("INSERT INTO dogs (geo_long, geo_lat, img_url, timestamp_img, nuetered, fb_post_id, phone_number) VALUES (%s, %s, %s, %s, %s, %s, %s);"
-              ,(geo_long, geo_lat, img_url, timestamp_img, nuetered, fb_post_id, phoneNumber))
+    c.execute(
+        "INSERT INTO dogs (geo_long, geo_lat, img_url, timestamp_img, nuetered, fb_post_id, phone_number) VALUES (%s, %s, %s, %s, %s, %s, %s);"
+        , (geo_long, geo_lat, img_url, timestamp_img, nuetered, fb_post_id, phoneNumber))
+    db.commit()
+
+
+def insertBatchDog(ar):
+    c = db.cursor()
+    for a in ar:
+        c.execute(
+            "INSERT INTO dogs (geo_long, geo_lat, img_url, timestamp_img, nuetered, fb_post_id, phone_number) VALUES (%s, %s, %s, %s, %s, %s, %s);"
+            , (a["geo_long"], a["geo_lat"], a["img_url"], 2222, False, a["fb_post_id"], "3333"))
     db.commit()
 
 

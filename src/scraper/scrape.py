@@ -4,13 +4,15 @@ import requests
 import facebook
 import re
 import json
+from src.api_requests import *
+import time;
 
 res = requests.get('https://lostdogsofamerica.org/')
 res.raise_for_status()
 soup = BeautifulSoup(res.text, "html.parser")
 
 graph = facebook.GraphAPI(
-    access_token="EAARBTTogYy0BAMcar3QKrrry6xBAwCRqvWnH12gkjRHWpCLoNuMs1iHqy9QEgZBr973STNrROZBnrZBqZATyKer21ZAZAaLRZCFkNYZBZCMbsfLX4PR7JqGeoOFJ0TaO4JFpCz7vXzevryJ0QoUegWmHGKFtbsAtCz8i2ZB7BIooFHT4M7ddFmB0ERdtANntzuJaSNPbZC0EQVm8wZDZD",
+    access_token="EAACEdEose0cBAEryIZACUchzSu9fYXIhLEbPlALMERbPWMmBuIKZChjQouia2bGFwJEPJzFsYO8yaB3ZBf96BBuR3gUx1wzW66xKFRBbvObBQOvEWXYksKZBkJfPogrelcRJhULvPmwIpdg50FCbeqnvyDZBvW9JiDo1UY9jdryYAZChZCC9BrVnaWn8fZATI2sZD",
     version=2.10)
 
 
@@ -20,46 +22,53 @@ def get_phone(str):
         num = [num for num in nums if len(num) >= 9]
         if len(num) > 0:
             return re.sub('[^0-9]', '', num[0])
+        else:
+            return "none"
     else:
-        return 0
+        return "none"
 
 
 def reform(fb_res):
-    print(fb_res)
-    toRet = {};
+    toRet = {}
     toRet["geo_long"] = 0.0
     toRet["geo_lat"] = 0.0
     if 'picture' in fb_res:
         toRet["img_url"] = fb_res["picture"]
     else:
         toRet["img_url"] = "none"
-    toRet["timestamp_img"] = fb_res["created_time"]
+    pattern = '%Y-%m-%dT%H:%M:%S'
+    epoch = int(time.mktime(time.strptime(fb_res["created_time"].split("+")[0], pattern)))
+    toRet["timestamp_img"] = epoch
     toRet["nuetered"] = "none"
     toRet["fb_post_id"] = fb_res["id"]
     if 'message' in fb_res:
-        toRet["phone_number"] = get_phone(fb_res["message"])
+        toRet["phoneNumber"] = get_phone(fb_res["message"])
     else:
-        toRet["phone_number"] = 0
+        toRet["phoneNumber"] = "none"
 
     if 'state' in fb_res:
         toRet["state"] = fb_res["state"]
     else:
-        toRet["state"] = fb_res["from"]["name"].split(" ")[1]
+        toRet["state"] = fb_res["from"]["name"].split(" ")[len(fb_res["from"]["name"].split(" ")) - 1]
     return toRet;
 
 
 def scrape(pg_id):
+    count = 0;
     dddd = []
-    item = graph.get_object(id=pg_id, fields='feed', limit=100)["feed"]["data"]
+    item = graph.get_object(id=pg_id, fields='feed', limit=80)["feed"]["data"]
     fb_res = [graph.get_object(i["id"],
                                fields='from, message, permalink_url, place, link, picture, created_time, description, application')
               for i in item]
     for item in fb_res:
-        dddd.append(reform(item))
+        item = reform(item)
+        print(count)
+        count += 1
+        insertDog(item["geo_long"], item["geo_lat"], item["img_url"], item["timestamp_img"], False, item["fb_post_id"],
+                  item["phoneNumber"])
+        dddd.append(item)
+
     return dddd;
-
-
-from multiprocessing import Process
 
 
 def get_new_posts(pr):
@@ -78,9 +87,21 @@ def get_new_posts(pr):
             f.truncate()  # remove remaining part
 
 
-for pr in soup.findAll('p'):
-    p = Process(target=get_new_posts, args=(pr,))
-    p.start()
+# Main entry point
+def start_code():
+    for pr in soup.findAll('p'):
+        get_new_posts(pr)
+
+
+        # start_code()
+
+        # TO RUN ON MULTIPLE THREADS
+        # from multiprocessing import Process
+        # for pr in soup.findAll('p'):
+        # p = Process(target=get_new_posts, args=(pr,))
+        # p.start()
+        # x = 0
+
 
 print("\n\n")
 
@@ -89,8 +110,14 @@ from clarifai.rest import Image as ClImage
 
 app = ClarifaiApp()
 
+imageList = []
 
-# imageList = [ClImage(url="http://cdn2-www.dogtime.com/assets/uploads/gallery/golden-retriever-dogs-and-puppies/golden-retriever-dogs-puppies-6.jpg")]
+
+# imageList  = [ClImage(url="http://cdn2-www.dogtime.com/assets/uploads/gallery/golden-retriever-dogs-and-puppies/golden-retriever-dogs-puppies-6.jpg")]
+# imageList = []
+# app.inputs.bulk_create_images(imageList)
+# print(imageList)
+
 
 # Search using a URL
 # search = app.inputs.search_by_image(
@@ -110,39 +137,36 @@ def getTop_matches(threshold, pet_data):
     if pet_data["state"].lower() == 'colorado':
         pet_data["state"] = "Co"
     f_name = "LostDogs" + pet_data["state"] + '_output.json'
-    print(f_name)
+    # print(f_name)
     with open(f_name) as f:
-        print(f)
+        # print(f)
         try:
             data = json.load(f)
         except ValueError:
             data = []
-            print(data)
-        imageList = [ClImage(url=pet["picture"]) for pet in data]
-        img_search = app.inputs.search_by_image(url=pet_data["picture"])
-        print(imageList)
+        for pet in data:
+            imageList.append(ClImage(url=pet["img_url"]))
+        # app.inputs.bulk_create_images(imageList)
+        print(pet_data["img_url"])
+        img_search = app.inputs.search_by_image(url=pet_data["img_url"])
+        print("\n\n")
         if len(img_search) > 0:
-            return img_search
-            # return [img_search.url for images in img_search if images.score >= threshold]
+            return [{"url": image.url, "score": image.score} for image in img_search if image.score > threshold]
         else:
             return []
 
 
-dt = {
-    "description": "This article backs up our recommendation to NOT offer a reward online for your missing pet.  In addition, we want to remind you that you do not need to pay any website or service to list your missing pet.  There are many, many FREE services like HelpingLostPets.com that will list your pet for FREE. And we are also partnered with many amazing volunteer groups across the country.\n\nhttps://www.timeslive.co.za/news/south-africa/2017-10-16-beware-social-media-scammers-when-posting-a-reward-for-lost-pets/",
-    "id": "1724090464482250_2410902259134397",
-    "created_time": "2017-10-20T16:14:32+0000",
-    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQB_GMq7EuxjVdq-&w=130&h=130&url=https%3A%2F%2Flh3.googleusercontent.com%2FxdueXhNlC5WHrs6epxdOJn3O2TTH5wCEq-y2AyQaM2SD7OxEludQ1reSIVXqdQxvU9jhHFymcfh1NLCM_6HmjA%3Ds1000&cfs=1&_nc_hash=AQCKMEIV1GmxvKTc",
-    "from": {
-        "id": "1724090464482250",
-        "name": "Lost Dogs Alabama"
-    },
+pet_item = {
+    "img_url": "http://cdn1-www.dogtime.com/assets/uploads/gallery/yorkshireterrier-dog-breed-pictures/1-face.jpg",
+    "geo_long": 0.0,
+    "timestamp_img": "2017-10-20T16:14:32+0000",
     "state": "Alabama",
-    "link": "https://www.timeslive.co.za/news/south-africa/2017-10-16-beware-social-media-scammers-when-posting-a-reward-for-lost-pets/",
-    "message": "This article backs up our recommendation to NOT offer a reward online for your missing pet. In addition, we want to remind you that you do not need to pay any website or service to list your missing pet. There are many, many FREE services like HelpingLostPets.com that will list your pet for FREE. And we are also partnered with many amazing volunteer groups across the country.\nhttps://www.timeslive.co.za/\u2026/2017-10-16-beware-social-med\u2026/",
-    "permalink_url": "https://www.facebook.com/LostDogsAlabama/posts/2410902259134397"
+    "nuetered": "none",
+    "phoneNumber": 0,
+    "geo_lat": 0.0,
+    "fb_post_id": "1724090464482250_2410902259134397"
 }
-getTop_matches(0, dt)
+print(getTop_matches(0.8, pet_item))
 
 
 def add_to_dataset(new_pet):
@@ -155,15 +179,3 @@ def add_to_dataset(new_pet):
         json.dump(data, f, indent=4)
         f.truncate()  # remove remaining part
         # data_set.append(ClImage(url=new_pet["picture"]))  # post format
-
-
-sample_post_body = {
-    "from": "",
-    "place": "",
-    "link": "",
-    "picture": "",
-    "created_time": "",
-    "description": "",
-    "application": "",
-    "state": ""
-}
