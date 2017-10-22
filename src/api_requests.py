@@ -35,5 +35,5 @@ def getDogByGeoTag(left, right, top, bottom):
 
 ##print(getDogByID(1))
 
-insertDog(100, -110, "http://url", 1324234, "Massachusetts", False, "none", "781---", False, "MISSING")
+
 

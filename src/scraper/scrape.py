@@ -65,7 +65,8 @@ def scrape(pg_id):
         item = reform(item)
         print(count)
         count += 1
-        insertDog(item["geo_long"], item["geo_lat"], item["img_url"], item["timestamp_img"],item["state"], False, item["fb_post_id"],
+        insertDog(item["geo_long"], item["geo_lat"], item["img_url"], item["timestamp_img"], item["state"], False,
+                  item["fb_post_id"],
                   item["phoneNumber"])
         dddd.append(item)
     return dddd;
@@ -93,7 +94,9 @@ def start_code():
         get_new_posts(pr)
 
 
-start_code()
+# To start the code
+# start_code()
+
 
 # TO RUN ON MULTIPLE THREADS
 # from multiprocessing import Process
@@ -102,51 +105,58 @@ start_code()
 # p.start()
 # x = 0
 
+import random
 
-print("\n\n")
+sam_urls = [
+    "http://animalli.com/wp-content/uploads/2016/09/dogs-dog-rottweiler-new-wallpaper-1920x1080.jpg",
+    "https://i.pinimg.com/736x/96/78/22/967822c0f1fb9171b424bcf1b765edb5--pom-puppies-cutest-dogs-puppies.jpg",
+    "https://cdn.psychologytoday.com/sites/default/files/field_blog_entry_images/2017-09/bored2.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/e/ef/Cute_dog_-_Silves_-_ancient_capital_of_Algarve_-_The_Algarve%2C_Portugal_%281388880640%29.jpg",
+    "http://2.bp.blogspot.com/-Tfsm19GRWew/VWtb6w47swI/AAAAAAABX84/E7uHzSliHwg/s1600/cute-dogs-075-26.jpg",
+    "http://www.thenewsminute.com/sites/default/files/styles/news_detail/public/dog-753269_1280.jpg?itok=dq3BKhqm",
+    "https://images.pexels.com/photos/85363/puppy-buddy-look-50mm-85363.jpeg?h=350&auto=compress&cs=tinysrgb",
+    "https://media-cdn.tripadvisor.com/media/photo-s/09/5b/64/ad/chiufen-jiufen-old-street.jpg",
+    "http://images2.onionstatic.com/clickhole/1892/original/600.jpg",
+    "http://bearshapedsphere.com/wp-content/uploads/2012/04/IMG_0101.jpg",
+    "http://www.esdaw-eu.eu/uploads/1/0/2/4/10241201/9294877_orig.jpg",
+    "http://s1.scoopwhoop.com/cd1/4.JPG",
+    "https://cdn.pixabay.com/photo/2016/07/31/12/31/cat-1558863_960_720.jpg",
+    "https://1.bp.blogspot.com/-Bmxj1_E_oGs/Vyzj3d3akqI/AAAAAAAABuU/yp7jRobAqXk9kTNLAltKeCpLueHlHqM8ACLcB/s1600/Dogs_1479300f.jpg",
+    "https://pbs.twimg.com/media/BozqlBmIIAAoDI-.jpg",
+    "http://i.dailymail.co.uk/i/pix/2014/02/24/article-0-1BC8EC0900000578-527_964x585.jpg",
+    "https://dncache-mauganscorp.netdna-ssl.com/thumbseg/1364/1364942-bigthumbnail.jpg",
+    "https://c4.staticflickr.com/4/3654/3343824492_6695000ebf_z.jpg?zz=1"
+]
 
-from clarifai.rest import ClarifaiApp
-from clarifai.rest import Image as ClImage
-
-app = ClarifaiApp()
-
-imageList = []
+pet_stat = ["SIGHTING", "MISSING", "FOUND"]
 
 
-# imageList  = [ClImage(url="http://cdn2-www.dogtime.com/assets/uploads/gallery/golden-retriever-dogs-and-puppies/golden-retriever-dogs-puppies-6.jpg")]
-# imageList = []
-# app.inputs.bulk_create_images(imageList)
-
-def getTop_matches(threshold, pet_data):
-    if pet_data["state"].lower() == 'colorado':
-        pet_data["state"] = "Co"
-    f_name = "LostDogs" + pet_data["state"] + '_output.json'
-
-    with open(f_name) as f:
-        try:
-            data = json.load(f)
-        except ValueError:
-            data = []
-    for pet in data:
-        imageList.append(ClImage(url=pet["img_url"]))
-    # app.inputs.bulk_create_images(imageList)
-    print(pet_data["img_url"])
-    img_search = app.inputs.search_by_image(url=pet_data["img_url"])
-    print("\n\n")
-    if len(img_search) > 0:
-        return [{"url": image.url, "score": image.score} for image in img_search if image.score > threshold]
+def ran_btw(rang, floating):
+    if floating == True:
+        return random.uniform(rang[0], rang[1])
+    elif floating == "img":
+        return random.choice(sam_urls)
     else:
-        return []
+        return random.randint(rang[0], rang[1])
 
-pet_item = {
-    "img_url": "http://cdn1-www.dogtime.com/assets/uploads/gallery/yorkshireterrier-dog-breed-pictures/1-face.jpg",
-    "geo_long": 0.0,
-    "timestamp_img": "2017-10-20T16:14:32+0000",
-    "state": "Alabama",
-    "nuetered": "none",
-    "phoneNumber": 0,
-    "geo_lat": 0.0,
-    "fb_post_id": "1724090464482250_2410902259134397"
-}
 
-print(getTop_matches(0.3, pet_item))
+tmp = []
+
+
+def insert_samp(n):
+    for _ in range(n):
+        samp = {};
+        samp["long"] = ran_btw([-71.113973, -71.039257], True)
+        samp["lat"] = ran_btw([42.304662, 42.378863], True)
+        samp["url"] = sam_urls[_]
+        samp["time"] = ran_btw([1324000, 1328292], False)
+        samp["phone"] = "781" + str(ran_btw([1324234, 4000000], False))
+        samp["stat"] = random.choice(pet_stat)
+        print(samp)
+        tmp.append(samp)
+        # insertDog(samp["long"], samp["lat"], samp["url"], samp["time"], "Massachusetts", False, "none", samp["phone"],False, samp["stat"])
+    print(tmp)
+    return
+
+# For inserting sample post
+insert_samp(len(sam_urls))
