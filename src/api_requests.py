@@ -23,5 +23,7 @@ def getDogByGeoTag(geo_lat, geo_lang, lat_length, long_length):
     c.execute("SELECT ")
 
 
+
+
 print(getDogByID(1))
 
