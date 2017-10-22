@@ -11,20 +11,10 @@ def getDogByID(dog_id):
     return json.dumps(c.fetchone())
 
 
-def insertDog(geo_long, geo_lat, img_url, timestamp_img, nuetered=False, fb_post_id="none", phoneNumber="none"):
+def insertDog(geo_long, geo_lat, img_url, timestamp_img, state="none", nuetered=False, fb_post_id="none", phoneNumber="none"):
     c = db.cursor()
-    c.execute(
-        "INSERT INTO dogs (geo_long, geo_lat, img_url, timestamp_img, nuetered, fb_post_id, phone_number) VALUES (%s, %s, %s, %s, %s, %s, %s);"
-        , (geo_long, geo_lat, img_url, timestamp_img, nuetered, fb_post_id, phoneNumber))
-    db.commit()
-
-
-def insertBatchDog(ar):
-    c = db.cursor()
-    for a in ar:
-        c.execute(
-            "INSERT INTO dogs (geo_long, geo_lat, img_url, timestamp_img, nuetered, fb_post_id, phone_number) VALUES (%s, %s, %s, %s, %s, %s, %s);"
-            , (a["geo_long"], a["geo_lat"], a["img_url"], 2222, False, a["fb_post_id"], "3333"))
+    c.execute("INSERT INTO dogs (geo_long, geo_lat, img_url, timestamp_img, nuetered, fb_post_id, phone_number, state) VALUES (%s, %s, %s, %s, %s, %s, %s, %s);"
+              ,(geo_long, geo_lat, img_url, timestamp_img, nuetered, fb_post_id, phoneNumber, state))
     db.commit()
 
 
@@ -34,3 +24,4 @@ def getDogByGeoTag(geo_lat, geo_lang, lat_length, long_length):
 
 
 print(getDogByID(1))
+

@@ -5,14 +5,14 @@ import facebook
 import re
 import json
 from src.api_requests import *
-import time;
+import time
 
 res = requests.get('https://lostdogsofamerica.org/')
 res.raise_for_status()
 soup = BeautifulSoup(res.text, "html.parser")
 
 graph = facebook.GraphAPI(
-    access_token="EAACEdEose0cBAEryIZACUchzSu9fYXIhLEbPlALMERbPWMmBuIKZChjQouia2bGFwJEPJzFsYO8yaB3ZBf96BBuR3gUx1wzW66xKFRBbvObBQOvEWXYksKZBkJfPogrelcRJhULvPmwIpdg50FCbeqnvyDZBvW9JiDo1UY9jdryYAZChZCC9BrVnaWn8fZATI2sZD",
+    access_token="EAACEdEose0cBAHtjJlIBgv9wJ9l9EdfSeDKwhLRxmeBK3dWGdZCu3T5gOj1opetFZAGcR8ZB2ijqgmBehcivjMnzq7eeZBTqm8VXrpjMR2ZBOHJkk1r1dL9hn5hXBWfPn9U6hhm3ad2mReVXi9bf8g2S2ZAg9OLGexXnbXrhxTZCaOYmZAZBuz11LkMLMCjZCPDAFkhoIJrH2IrAZDZD",
     version=2.10)
 
 
@@ -36,6 +36,7 @@ def reform(fb_res):
         toRet["img_url"] = fb_res["picture"]
     else:
         toRet["img_url"] = "none"
+
     pattern = '%Y-%m-%dT%H:%M:%S'
     epoch = int(time.mktime(time.strptime(fb_res["created_time"].split("+")[0], pattern)))
     toRet["timestamp_img"] = epoch
@@ -64,10 +65,9 @@ def scrape(pg_id):
         item = reform(item)
         print(count)
         count += 1
-        insertDog(item["geo_long"], item["geo_lat"], item["img_url"], item["timestamp_img"], False, item["fb_post_id"],
+        insertDog(item["geo_long"], item["geo_lat"], item["img_url"], item["timestamp_img"],item["state"], False, item["fb_post_id"],
                   item["phoneNumber"])
         dddd.append(item)
-
     return dddd;
 
 
@@ -93,14 +93,14 @@ def start_code():
         get_new_posts(pr)
 
 
-        # start_code()
+start_code()
 
-        # TO RUN ON MULTIPLE THREADS
-        # from multiprocessing import Process
-        # for pr in soup.findAll('p'):
-        # p = Process(target=get_new_posts, args=(pr,))
-        # p.start()
-        # x = 0
+# TO RUN ON MULTIPLE THREADS
+# from multiprocessing import Process
+# for pr in soup.findAll('p'):
+# p = Process(target=get_new_posts, args=(pr,))
+# p.start()
+# x = 0
 
 
 print("\n\n")
@@ -118,7 +118,6 @@ imageList = []
 # app.inputs.bulk_create_images(imageList)
 # print(imageList)
 
-
 # Search using a URL
 # search = app.inputs.search_by_image(
 #     url='http://cdn2-www.dogtime.com/assets/uploads/gallery/german-shepherd-dog-breed-pictures/standing-7.jpg')
@@ -129,22 +128,22 @@ def getTop_matches(threshold, pet_data):
     if pet_data["state"].lower() == 'colorado':
         pet_data["state"] = "Co"
     f_name = "LostDogs" + pet_data["state"] + '_output.json'
+
     with open(f_name) as f:
         try:
             data = json.load(f)
         except ValueError:
             data = []
-        for pet in data:
-            imageList.append(ClImage(url=pet["img_url"]))
-        # app.inputs.bulk_create_images(imageList)
-        print(pet_data["img_url"])
-        img_search = app.inputs.search_by_image(url=pet_data["img_url"])
-        print("\n\n")
-        if len(img_search) > 0:
-            return [{"url": image.url, "score": image.score} for image in img_search if image.score > threshold]
-        else:
-            return []
-
+    for pet in data:
+        imageList.append(ClImage(url=pet["img_url"]))
+    # app.inputs.bulk_create_images(imageList)
+    print(pet_data["img_url"])
+    img_search = app.inputs.search_by_image(url=pet_data["img_url"])
+    print("\n\n")
+    if len(img_search) > 0:
+        return [{"url": image.url, "score": image.score} for image in img_search if image.score > threshold]
+    else:
+        return []
 
 pet_item = {
     "img_url": "http://cdn1-www.dogtime.com/assets/uploads/gallery/yorkshireterrier-dog-breed-pictures/1-face.jpg",
@@ -156,8 +155,8 @@ pet_item = {
     "geo_lat": 0.0,
     "fb_post_id": "1724090464482250_2410902259134397"
 }
-print(getTop_matches(0.7, pet_item))
 
+print(getTop_matches(0.3, pet_item))
 
 def add_to_dataset(new_pet):
     with open('dataset.json', 'r+') as f:
