@@ -125,21 +125,11 @@ imageList = []
 # print([images.url for images in search if images.score >= 0.59])
 
 
-# with open('dataset.json', 'r+') as f:
-#     data = json.load(f)
-#     data['id'] = []  # <--- add `id` value.
-#     f.seek(0)  # <--- should reset file position to the beginning.
-#     json.dump(data, f, indent=4)
-#     f.truncate()  # remove remaining part
-
-
 def getTop_matches(threshold, pet_data):
     if pet_data["state"].lower() == 'colorado':
         pet_data["state"] = "Co"
     f_name = "LostDogs" + pet_data["state"] + '_output.json'
-    # print(f_name)
     with open(f_name) as f:
-        # print(f)
         try:
             data = json.load(f)
         except ValueError:
@@ -166,7 +156,7 @@ pet_item = {
     "geo_lat": 0.0,
     "fb_post_id": "1724090464482250_2410902259134397"
 }
-print(getTop_matches(0.8, pet_item))
+print(getTop_matches(0.7, pet_item))
 
 
 def add_to_dataset(new_pet):
