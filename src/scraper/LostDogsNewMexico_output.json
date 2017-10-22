@@ -1,255 +1,252 @@
-<<<<<<< HEAD
-=======
 [
     {
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22728674_1991135917836456_7259768333352280037_n.png?oh=1b29fb1d6bb0002fa8861caf79ad0df8&oe=5A7C4696",
-        "fb_post_id": "1586337081649677_1991136187836429",
-        "geo_long": 0.0,
-        "geo_lat": 0.0,
-        "state": "Mexico",
-        "nuetered": "none",
         "timestamp_img": 1508617235,
-        "phoneNumber": "6517345332"
+        "nuetered": "none",
+        "fb_post_id": "1586337081649677_1991136187836429",
+        "phoneNumber": "6517345332",
+        "state": "Mexico"
     },
     {
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22528465_1991126391170742_9067365817438918404_n.png?oh=139807367d4e789b7e9034a184c089f2&oe=5A86E727",
-        "fb_post_id": "1586337081649677_1991126467837401",
-        "geo_long": 0.0,
-        "geo_lat": 0.0,
-        "state": "Mexico",
-        "nuetered": "none",
         "timestamp_img": 1508615815,
-        "phoneNumber": "none"
+        "nuetered": "none",
+        "fb_post_id": "1586337081649677_1991126467837401",
+        "phoneNumber": "none",
+        "state": "Mexico"
     },
     {
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22540091_1991102924506422_8226575981561903145_n.png?oh=44c7d4ec7e95d6cbde8515110d459d6c&oe=5A7651F7",
-        "fb_post_id": "1586337081649677_1991103567839691",
-        "geo_long": 0.0,
-        "geo_lat": 0.0,
-        "state": "Mexico",
-        "nuetered": "none",
         "timestamp_img": 1508612059,
-        "phoneNumber": "2294122025"
+        "nuetered": "none",
+        "fb_post_id": "1586337081649677_1991103567839691",
+        "phoneNumber": "2294122025",
+        "state": "Mexico"
     },
     {
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22552376_1990280371255344_3017973694355897828_n.jpg?oh=100efa62cea52a201912e4af28aa5a8d&oe=5A63AC6A",
-        "fb_post_id": "1586337081649677_1990280457922002",
-        "geo_long": 0.0,
-        "geo_lat": 0.0,
-        "state": "Mexico",
-        "nuetered": "none",
         "timestamp_img": 1508609221,
-        "phoneNumber": "none"
+        "nuetered": "none",
+        "fb_post_id": "1586337081649677_1990280457922002",
+        "phoneNumber": "none",
+        "state": "Mexico"
     },
     {
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22552635_1990845947865453_3968934070951466893_n.png?oh=ba68af96cd4f1a46ed9b239d355a5acb&oe=5A85DCCC",
-        "fb_post_id": "1586337081649677_1990846327865415",
-        "geo_long": 0.0,
-        "geo_lat": 0.0,
-        "state": "Mexico",
-        "nuetered": "none",
         "timestamp_img": 1508556440,
-        "phoneNumber": "5055158150"
+        "nuetered": "none",
+        "fb_post_id": "1586337081649677_1990846327865415",
+        "phoneNumber": "5055158150",
+        "state": "Mexico"
     },
     {
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22528399_1990279924588722_396085379829126498_n.jpg?oh=0c7cb4f85fb1dda33c0dd67e5fe833a6&oe=5A6707A4",
-        "fb_post_id": "1586337081649677_1990280017922046",
-        "geo_long": 0.0,
-        "geo_lat": 0.0,
-        "state": "Mexico",
-        "nuetered": "none",
         "timestamp_img": 1508522761,
-        "phoneNumber": "none"
+        "nuetered": "none",
+        "fb_post_id": "1586337081649677_1990280017922046",
+        "phoneNumber": "none",
+        "state": "Mexico"
     },
     {
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22549688_1990371057912942_8690658089571860133_n.png?oh=bdb73c7ebe8ada96c3ea1f20575db97e&oe=5A6F6EE1",
-        "fb_post_id": "1586337081649677_1990371531246228",
-        "geo_long": 0.0,
-        "geo_lat": 0.0,
-        "state": "Mexico",
-        "nuetered": "none",
         "timestamp_img": 1508455452,
-        "phoneNumber": "5054011605"
+        "nuetered": "none",
+        "fb_post_id": "1586337081649677_1990371531246228",
+        "phoneNumber": "5054011605",
+        "state": "Mexico"
     },
     {
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22549822_1990365774580137_7458130432961375611_n.png?oh=f5eb69b0125d768fc9c9cdaec780a447&oe=5A75AF3A",
-        "fb_post_id": "1586337081649677_1990366884580026",
-        "geo_long": 0.0,
-        "geo_lat": 0.0,
-        "state": "Mexico",
-        "nuetered": "none",
         "timestamp_img": 1508454703,
-        "phoneNumber": "5054011605"
+        "nuetered": "none",
+        "fb_post_id": "1586337081649677_1990366884580026",
+        "phoneNumber": "5054011605",
+        "state": "Mexico"
     },
     {
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22519440_1990278331255548_6912546289203493767_n.png?oh=4dbc94b903ea178a3b7756a6a6a8027b&oe=5A716B6A",
-        "fb_post_id": "1586337081649677_1990278767922171",
-        "geo_long": 0.0,
-        "geo_lat": 0.0,
-        "state": "Mexico",
-        "nuetered": "none",
         "timestamp_img": 1508439047,
-        "phoneNumber": "none"
+        "nuetered": "none",
+        "fb_post_id": "1586337081649677_1990278767922171",
+        "phoneNumber": "none",
+        "state": "Mexico"
     },
     {
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22528557_1990027917947256_7439571925407855237_n.png?oh=d611cd2524fa06ed13b23af6f55deb8d&oe=5A7A8F2C",
-        "fb_post_id": "1586337081649677_1990027967947251",
-        "geo_long": 0.0,
-        "geo_lat": 0.0,
-        "state": "Mexico",
-        "nuetered": "none",
         "timestamp_img": 1508394456,
-        "phoneNumber": "none"
+        "nuetered": "none",
+        "fb_post_id": "1586337081649677_1990027967947251",
+        "phoneNumber": "none",
+        "state": "Mexico"
     },
     {
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
         "img_url": "none",
-        "fb_post_id": "1586337081649677_1989978681285513",
-        "geo_long": 0.0,
-        "geo_lat": 0.0,
-        "state": "Monroe",
-        "nuetered": "none",
         "timestamp_img": 1508381583,
-        "phoneNumber": "none"
+        "nuetered": "none",
+        "fb_post_id": "1586337081649677_1989978681285513",
+        "phoneNumber": "none",
+        "state": "Monroe"
     },
     {
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22491761_1989823801301001_5383331349406686386_n.jpg?oh=714d4bbb1ec59ef70ce42d114a271059&oe=5A86CC1E",
-        "fb_post_id": "1586337081649677_1989824131300968",
-        "geo_long": 0.0,
-        "geo_lat": 0.0,
-        "state": "Mexico",
-        "nuetered": "none",
         "timestamp_img": 1508353814,
-        "phoneNumber": "none"
+        "nuetered": "none",
+        "fb_post_id": "1586337081649677_1989824131300968",
+        "phoneNumber": "none",
+        "state": "Mexico"
     },
     {
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22528352_1989811601302221_2514878243172609024_n.png?oh=5d9f777c9fd2dc63b8d2c5e9ef20bffd&oe=5A77D920",
-        "fb_post_id": "1586337081649677_1989812097968838",
-        "geo_long": 0.0,
-        "geo_lat": 0.0,
-        "state": "Mexico",
-        "nuetered": "none",
         "timestamp_img": 1508352332,
-        "phoneNumber": "5059346079"
+        "nuetered": "none",
+        "fb_post_id": "1586337081649677_1989812097968838",
+        "phoneNumber": "5059346079",
+        "state": "Mexico"
     },
     {
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22491496_1989546037995444_6069839429179076494_n.png?oh=f9107f2af4a59c597e4dce13b7c317a6&oe=5A647C01",
-        "fb_post_id": "1586337081649677_1989546051328776",
-        "geo_long": 0.0,
-        "geo_lat": 0.0,
-        "state": "Mexico",
-        "nuetered": "none",
         "timestamp_img": 1508293794,
-        "phoneNumber": "none"
+        "nuetered": "none",
+        "fb_post_id": "1586337081649677_1989546051328776",
+        "phoneNumber": "none",
+        "state": "Mexico"
     },
     {
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22450078_1989476774669037_5459705413122547866_n.png?oh=1d1f535dfcccc19c9cf2431e929d72b4&oe=5A7623A8",
-        "fb_post_id": "1586337081649677_1989477244668990",
-        "geo_long": 0.0,
-        "geo_lat": 0.0,
-        "state": "Mexico",
-        "nuetered": "none",
         "timestamp_img": 1508279903,
-        "phoneNumber": "5057207321"
+        "nuetered": "none",
+        "fb_post_id": "1586337081649677_1989477244668990",
+        "phoneNumber": "5057207321",
+        "state": "Mexico"
     },
     {
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/19424054_1934346226848759_6565015019867345051_n.png?oh=810a1a8a8fc20c73bd28fcb32d12c625&oe=5A6ACA92",
-        "fb_post_id": "1586337081649677_1989392281344153",
-        "geo_long": 0.0,
-        "geo_lat": 0.0,
-        "state": "Mexico",
-        "nuetered": "none",
         "timestamp_img": 1508268015,
-        "phoneNumber": "none"
+        "nuetered": "none",
+        "fb_post_id": "1586337081649677_1989392281344153",
+        "phoneNumber": "none",
+        "state": "Mexico"
     },
     {
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22491752_1989382781345103_5760803468038334797_n.png?oh=ced00d362af738d5325fe145799585b4&oe=5A6963F4",
-        "fb_post_id": "1586337081649677_1989382948011753",
-        "geo_long": 0.0,
-        "geo_lat": 0.0,
-        "state": "Mexico",
-        "nuetered": "none",
         "timestamp_img": 1508265992,
-        "phoneNumber": "none"
+        "nuetered": "none",
+        "fb_post_id": "1586337081649677_1989382948011753",
+        "phoneNumber": "none",
+        "state": "Mexico"
     },
     {
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22491501_1988202461463135_5482507031644589781_n.png?oh=27764faacf357a23c456aaf8fcea65d2&oe=5AB043FD",
-        "fb_post_id": "1586337081649677_1988202641463117",
-        "geo_long": 0.0,
-        "geo_lat": 0.0,
-        "state": "Mexico",
-        "nuetered": "none",
         "timestamp_img": 1508176500,
-        "phoneNumber": "none"
+        "nuetered": "none",
+        "fb_post_id": "1586337081649677_1988202641463117",
+        "phoneNumber": "none",
+        "state": "Mexico"
     },
     {
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22528259_1683516865006223_1236366870421566804_n.jpg?oh=e2afbd0737636425f4213d9d5c3247a2&oe=5A6DF38B",
-        "fb_post_id": "1586337081649677_1988568944759820",
-        "geo_long": 0.0,
-        "geo_lat": 0.0,
-        "state": "Thompson",
-        "nuetered": "none",
         "timestamp_img": 1508106908,
-        "phoneNumber": "5753023279"
+        "nuetered": "none",
+        "fb_post_id": "1586337081649677_1988568944759820",
+        "phoneNumber": "5753023279",
+        "state": "Thompson"
     },
     {
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22490028_1683513641673212_4224860964810922791_n.jpg?oh=148349005c55f14bb7e50a5de101e428&oe=5A6309DB",
-        "fb_post_id": "1586337081649677_1988567971426584",
-        "geo_long": 0.0,
-        "geo_lat": 0.0,
-        "state": "Thompson",
-        "nuetered": "none",
         "timestamp_img": 1508106695,
-        "phoneNumber": "none"
+        "nuetered": "none",
+        "fb_post_id": "1586337081649677_1988567971426584",
+        "phoneNumber": "none",
+        "state": "Thompson"
     },
     {
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22449590_1988544448095603_4082562639382729459_n.png?oh=78c69c90922c3535029ab4cdee4dc59a&oe=5A6BF935",
-        "fb_post_id": "1586337081649677_1988544951428886",
-        "geo_long": 0.0,
-        "geo_lat": 0.0,
-        "state": "Mexico",
-        "nuetered": "none",
         "timestamp_img": 1508101965,
-        "phoneNumber": "9153050004"
+        "nuetered": "none",
+        "fb_post_id": "1586337081649677_1988544951428886",
+        "phoneNumber": "9153050004",
+        "state": "Mexico"
     },
     {
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22540166_1680359602035679_3456517990549420442_n.jpg?oh=2640b4779b9e0c88010b4860bedf84eb&oe=5A7FEC2B",
-        "fb_post_id": "1586337081649677_1988539914762723",
-        "geo_long": 0.0,
-        "geo_lat": 0.0,
-        "state": "Garcia",
-        "nuetered": "none",
         "timestamp_img": 1508101409,
-        "phoneNumber": "none"
+        "nuetered": "none",
+        "fb_post_id": "1586337081649677_1988539914762723",
+        "phoneNumber": "none",
+        "state": "Garcia"
     },
     {
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22308569_1986343161649065_2484511668642308807_n.jpg?oh=8ab0e9e8fdc439bfcb895f2fd143800a&oe=5A7AB4A1",
-        "fb_post_id": "1586337081649677_1986343348315713",
-        "geo_long": 0.0,
-        "geo_lat": 0.0,
-        "state": "Mexico",
-        "nuetered": "none",
         "timestamp_img": 1508090820,
-        "phoneNumber": "none"
+        "nuetered": "none",
+        "fb_post_id": "1586337081649677_1986343348315713",
+        "phoneNumber": "none",
+        "state": "Mexico"
     },
     {
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22222013_1985502178399830_8246605125432986769_n.jpg?oh=8c0567cb9c1c2a2da5b48c7ca5674cc6&oe=5A7A9A71",
-        "fb_post_id": "1586337081649677_1985502275066487",
-        "geo_long": 0.0,
-        "geo_lat": 0.0,
-        "state": "Mexico",
-        "nuetered": "none",
         "timestamp_img": 1508004000,
-        "phoneNumber": "none"
+        "nuetered": "none",
+        "fb_post_id": "1586337081649677_1985502275066487",
+        "phoneNumber": "none",
+        "state": "Mexico"
     },
     {
-        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22406540_1987617508188297_2807157268266308857_n.png?oh=fc591cbab1696ba315239bbd0ed2967c&oe=5A7BA3CB",
-        "fb_post_id": "1586337081649677_1987617624854952",
         "geo_long": 0.0,
         "geo_lat": 0.0,
-        "state": "Mexico",
-        "nuetered": "none",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22406540_1987617508188297_2807157268266308857_n.png?oh=fc591cbab1696ba315239bbd0ed2967c&oe=5A7BA3CB",
         "timestamp_img": 1507922397,
-        "phoneNumber": "none"
+        "nuetered": "none",
+        "fb_post_id": "1586337081649677_1987617624854952",
+        "phoneNumber": "none",
+        "state": "Mexico"
     }
 ]
->>>>>>> 5c0fdc89f3f5fbb956d920c99b923aa1dafba62f

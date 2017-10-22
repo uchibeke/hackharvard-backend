@@ -1,255 +1,252 @@
-<<<<<<< HEAD
-=======
 [
     {
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22554831_10210887286714424_8711581126375627444_n.jpg?oh=6c446921ba446bb94bc2829442cb5815&oe=5AAF6269",
-        "fb_post_id": "424046101084977_871405086349074",
-        "geo_long": 0.0,
-        "geo_lat": 0.0,
-        "state": "Jensen",
-        "nuetered": "none",
         "timestamp_img": 1508611121,
-        "phoneNumber": "none"
+        "nuetered": "none",
+        "fb_post_id": "424046101084977_871405086349074",
+        "phoneNumber": "none",
+        "state": "Jensen"
     },
     {
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22728692_10209977379411557_2689909566821833632_n.jpg?oh=396d65108dbe0616d41116a664f1c8fe&oe=5A79054A",
-        "fb_post_id": "424046101084977_871401606349422",
-        "geo_long": 0.0,
-        "geo_lat": 0.0,
-        "state": "Kornegay",
-        "nuetered": "none",
         "timestamp_img": 1508610678,
-        "phoneNumber": "none"
+        "nuetered": "none",
+        "fb_post_id": "424046101084977_871401606349422",
+        "phoneNumber": "none",
+        "state": "Kornegay"
     },
     {
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22528034_871057373050512_6491152092425913966_n.jpg?oh=315d8dbe8575e0e8f9ad43b8e666df03&oe=5A793043",
-        "fb_post_id": "424046101084977_871057383050511",
-        "geo_long": 0.0,
-        "geo_lat": 0.0,
-        "state": "Montana",
-        "nuetered": "none",
         "timestamp_img": 1508571819,
-        "phoneNumber": "none"
+        "nuetered": "none",
+        "fb_post_id": "424046101084977_871057383050511",
+        "phoneNumber": "none",
+        "state": "Montana"
     },
     {
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22448599_1904887403062400_5623085832009968140_n.png?oh=2c98dd9240037218bf99274472514a29&oe=5A68C2CA",
-        "fb_post_id": "424046101084977_870277846461798",
-        "geo_long": 0.0,
-        "geo_lat": 0.0,
-        "state": "Montana",
-        "nuetered": "none",
         "timestamp_img": 1508441227,
-        "phoneNumber": "none"
+        "nuetered": "none",
+        "fb_post_id": "424046101084977_870277846461798",
+        "phoneNumber": "none",
+        "state": "Montana"
     },
     {
-        "img_url": "none",
-        "fb_post_id": "424046101084977_870233506466232",
         "geo_long": 0.0,
         "geo_lat": 0.0,
-        "state": "Rychlik-Small",
-        "nuetered": "none",
+        "img_url": "none",
         "timestamp_img": 1508435737,
-        "phoneNumber": "1235461950"
+        "nuetered": "none",
+        "fb_post_id": "424046101084977_870233506466232",
+        "phoneNumber": "1235461950",
+        "state": "Rychlik-Small"
     },
     {
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
         "img_url": "none",
-        "fb_post_id": "424046101084977_869173026572280",
-        "geo_long": 0.0,
-        "geo_lat": 0.0,
-        "state": "MacNee",
-        "nuetered": "none",
         "timestamp_img": 1508302411,
-        "phoneNumber": "none"
+        "nuetered": "none",
+        "fb_post_id": "424046101084977_869173026572280",
+        "phoneNumber": "none",
+        "state": "MacNee"
     },
     {
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22450089_868637053292544_8992794359218542407_n.png?oh=4e2e6dafe45c8ed01e9c8c430106bc67&oe=5AB01BAC",
-        "fb_post_id": "424046101084977_868637053292544",
-        "geo_long": 0.0,
-        "geo_lat": 0.0,
-        "state": "Montana",
-        "nuetered": "none",
         "timestamp_img": 1508195336,
-        "phoneNumber": "4064600035"
+        "nuetered": "none",
+        "fb_post_id": "424046101084977_868637053292544",
+        "phoneNumber": "4064600035",
+        "state": "Montana"
     },
     {
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22221890_1486983494672594_6327702342263914431_n.jpg?oh=e649d80962f9ccf4cd97f31a7a4dc25a&oe=5A8348BD",
-        "fb_post_id": "424046101084977_868535256636057",
-        "geo_long": 0.0,
-        "geo_lat": 0.0,
-        "state": "Montana",
-        "nuetered": "none",
         "timestamp_img": 1508177315,
-        "phoneNumber": "none"
+        "nuetered": "none",
+        "fb_post_id": "424046101084977_868535256636057",
+        "phoneNumber": "none",
+        "state": "Montana"
     },
     {
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22405613_1789592114409053_7002946692424101119_n.jpg?oh=5d7e95d350c6be712e2324a1c8a11d53&oe=5A806F48",
-        "fb_post_id": "424046101084977_866866950136221",
-        "geo_long": 0.0,
-        "geo_lat": 0.0,
-        "state": "Montana",
-        "nuetered": "none",
         "timestamp_img": 1507913174,
-        "phoneNumber": "none"
+        "nuetered": "none",
+        "fb_post_id": "424046101084977_866866950136221",
+        "phoneNumber": "none",
+        "state": "Montana"
     },
     {
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22308858_862741270548789_523303506410322493_n.png?oh=33196393359a23cbe780d13e51d7166a&oe=5A6D56A0",
-        "fb_post_id": "424046101084977_862741270548789",
-        "geo_long": 0.0,
-        "geo_lat": 0.0,
-        "state": "Montana",
-        "nuetered": "none",
         "timestamp_img": 1507296359,
-        "phoneNumber": "none"
+        "nuetered": "none",
+        "fb_post_id": "424046101084977_862741270548789",
+        "phoneNumber": "none",
+        "state": "Montana"
     },
     {
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22228420_862740280548888_9082167662853786043_n.png?oh=6c307c989c7fa247a774e8068b446af2&oe=5A78A0F3",
-        "fb_post_id": "424046101084977_862740280548888",
-        "geo_long": 0.0,
-        "geo_lat": 0.0,
-        "state": "Montana",
-        "nuetered": "none",
         "timestamp_img": 1507296112,
-        "phoneNumber": "none"
+        "nuetered": "none",
+        "fb_post_id": "424046101084977_862740280548888",
+        "phoneNumber": "none",
+        "state": "Montana"
     },
     {
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22195229_862738687215714_4475588288531808483_n.png?oh=a765475ac600d2d6d0056b24e1989d49&oe=5A761014",
-        "fb_post_id": "424046101084977_862738687215714",
-        "geo_long": 0.0,
-        "geo_lat": 0.0,
-        "state": "Montana",
-        "nuetered": "none",
         "timestamp_img": 1507295835,
-        "phoneNumber": "4063820615"
+        "nuetered": "none",
+        "fb_post_id": "424046101084977_862738687215714",
+        "phoneNumber": "4063820615",
+        "state": "Montana"
     },
     {
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22195336_862728503883399_4682010045630259902_n.png?oh=8ee2c7b04e29f89e1d5c69be687266aa&oe=5A67668A",
-        "fb_post_id": "424046101084977_862728503883399",
-        "geo_long": 0.0,
-        "geo_lat": 0.0,
-        "state": "Montana",
-        "nuetered": "none",
         "timestamp_img": 1507294649,
-        "phoneNumber": "4069301750"
+        "nuetered": "none",
+        "fb_post_id": "424046101084977_862728503883399",
+        "phoneNumber": "4069301750",
+        "state": "Montana"
     },
     {
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
         "img_url": "https://external.xx.fbcdn.net/safe_image.php?d=AQAeWqWUirgHW1Ej&w=130&h=130&url=http%3A%2F%2Fktvq.images.worldnow.com%2Fimages%2F15053562_G.jpg&cfs=1&_nc_hash=AQCj2QYVh-DyT-yr",
-        "fb_post_id": "424046101084977_861607880662128",
-        "geo_long": 0.0,
-        "geo_lat": 0.0,
-        "state": "Montana",
-        "nuetered": "none",
         "timestamp_img": 1507103720,
-        "phoneNumber": "none"
+        "nuetered": "none",
+        "fb_post_id": "424046101084977_861607880662128",
+        "phoneNumber": "none",
+        "state": "Montana"
     },
     {
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22089369_1575561512510243_6317450908373345501_n.jpg?oh=41a1106c0d75f1c7980d320a3b2b7535&oe=5A6AEC51",
-        "fb_post_id": "424046101084977_860028407486742",
-        "geo_long": 0.0,
-        "geo_lat": 0.0,
-        "state": "Mace",
-        "nuetered": "none",
         "timestamp_img": 1506831059,
-        "phoneNumber": "4067283039"
+        "nuetered": "none",
+        "fb_post_id": "424046101084977_860028407486742",
+        "phoneNumber": "4067283039",
+        "state": "Mace"
     },
     {
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22008194_1393051177472640_4376459742362781794_n.jpg?oh=e43eb7ddaf9d657ccbb955eefcc55dac&oe=5A7F1651",
-        "fb_post_id": "424046101084977_858345794321670",
-        "geo_long": 0.0,
-        "geo_lat": 0.0,
-        "state": "Montana",
-        "nuetered": "none",
         "timestamp_img": 1506577260,
-        "phoneNumber": "none"
+        "nuetered": "none",
+        "fb_post_id": "424046101084977_858345794321670",
+        "phoneNumber": "none",
+        "state": "Montana"
     },
     {
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22008217_1512436808847462_1713926594919252157_n.jpg?oh=c15af0f2ba1781ffc77be60f04fb7e52&oe=5A772B9C",
-        "fb_post_id": "424046101084977_858295757660007",
-        "geo_long": 0.0,
-        "geo_lat": 0.0,
-        "state": "Yeoman",
-        "nuetered": "none",
         "timestamp_img": 1506566798,
-        "phoneNumber": "none"
+        "nuetered": "none",
+        "fb_post_id": "424046101084977_858295757660007",
+        "phoneNumber": "none",
+        "state": "Yeoman"
     },
     {
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22090055_1512422172182259_8031670993909671903_n.jpg?oh=b764c1cf388cb5a68ceedfa06ac3d76d&oe=5A665411",
-        "fb_post_id": "424046101084977_858288800994036",
-        "geo_long": 0.0,
-        "geo_lat": 0.0,
-        "state": "Yeoman",
-        "nuetered": "none",
         "timestamp_img": 1506564832,
-        "phoneNumber": "none"
+        "nuetered": "none",
+        "fb_post_id": "424046101084977_858288800994036",
+        "phoneNumber": "none",
+        "state": "Yeoman"
     },
     {
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/21765347_10159329763575511_1958824115586209601_n.jpg?oh=b01776b360d9f1cc8f0de0dc1c43849a&oe=5A79F668",
-        "fb_post_id": "424046101084977_857870171035899",
-        "geo_long": 0.0,
-        "geo_lat": 0.0,
-        "state": "Smith",
-        "nuetered": "none",
         "timestamp_img": 1506487760,
-        "phoneNumber": "none"
+        "nuetered": "none",
+        "fb_post_id": "424046101084977_857870171035899",
+        "phoneNumber": "none",
+        "state": "Smith"
     },
     {
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22046390_10208758492314549_4922511220266885261_n.jpg?oh=2873467557a76131f8d856ee62a9e18b&oe=5A7825E3",
-        "fb_post_id": "424046101084977_857813347708248",
-        "geo_long": 0.0,
-        "geo_lat": 0.0,
-        "state": "Grammond",
-        "nuetered": "none",
         "timestamp_img": 1506475821,
-        "phoneNumber": "none"
+        "nuetered": "none",
+        "fb_post_id": "424046101084977_857813347708248",
+        "phoneNumber": "none",
+        "state": "Grammond"
     },
     {
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22008272_10208758457593681_7765130383233786309_n.jpg?oh=8aa77e6391cb42fb447ecf1f6adf4f10&oe=5A64718F",
-        "fb_post_id": "424046101084977_857812631041653",
-        "geo_long": 0.0,
-        "geo_lat": 0.0,
-        "state": "Grammond",
-        "nuetered": "none",
         "timestamp_img": 1506475626,
-        "phoneNumber": "none"
+        "nuetered": "none",
+        "fb_post_id": "424046101084977_857812631041653",
+        "phoneNumber": "none",
+        "state": "Grammond"
     },
     {
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22046028_10159321756120511_7995722486040282903_n.jpg?oh=f4eaae0deb2e4b4c321eb186ae2e79c5&oe=5A7E6405",
-        "fb_post_id": "424046101084977_856901874466062",
-        "geo_long": 0.0,
-        "geo_lat": 0.0,
-        "state": "Smith",
-        "nuetered": "none",
         "timestamp_img": 1506324660,
-        "phoneNumber": "none"
+        "nuetered": "none",
+        "fb_post_id": "424046101084977_856901874466062",
+        "phoneNumber": "none",
+        "state": "Smith"
     },
     {
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/21686503_1940521702874185_8214599850394086553_n.jpg?oh=66734e1c18b08629a04decbe2cec44e9&oe=5A626941",
-        "fb_post_id": "424046101084977_855041277985455",
-        "geo_long": 0.0,
-        "geo_lat": 0.0,
-        "state": "Bibler",
-        "nuetered": "none",
         "timestamp_img": 1506083267,
-        "phoneNumber": "none"
+        "nuetered": "none",
+        "fb_post_id": "424046101084977_855041277985455",
+        "phoneNumber": "none",
+        "state": "Bibler"
     },
     {
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/21558670_1433472746736594_8279425354245460478_n.jpg?oh=b731302629711a7d4163f0562c26a646&oe=5A6A9F51",
-        "fb_post_id": "424046101084977_853964861426430",
-        "geo_long": 0.0,
-        "geo_lat": 0.0,
-        "state": "Kelley",
-        "nuetered": "none",
         "timestamp_img": 1505898150,
-        "phoneNumber": "none"
+        "nuetered": "none",
+        "fb_post_id": "424046101084977_853964861426430",
+        "phoneNumber": "none",
+        "state": "Kelley"
     },
     {
-        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/21686448_853925031430413_4412767553517538683_n.jpg?oh=767efa1e10af7971e4fad560f744659e&oe=5A7A189B",
-        "fb_post_id": "424046101084977_853925051430411",
         "geo_long": 0.0,
         "geo_lat": 0.0,
-        "state": "Montana",
-        "nuetered": "none",
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/21686448_853925031430413_4412767553517538683_n.jpg?oh=767efa1e10af7971e4fad560f744659e&oe=5A7A189B",
         "timestamp_img": 1505891484,
-        "phoneNumber": "4065790850"
+        "nuetered": "none",
+        "fb_post_id": "424046101084977_853925051430411",
+        "phoneNumber": "4065790850",
+        "state": "Montana"
     }
 ]
->>>>>>> 5c0fdc89f3f5fbb956d920c99b923aa1dafba62f
