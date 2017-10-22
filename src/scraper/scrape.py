@@ -116,13 +116,6 @@ imageList = []
 # imageList  = [ClImage(url="http://cdn2-www.dogtime.com/assets/uploads/gallery/golden-retriever-dogs-and-puppies/golden-retriever-dogs-puppies-6.jpg")]
 # imageList = []
 # app.inputs.bulk_create_images(imageList)
-# print(imageList)
-
-# Search using a URL
-# search = app.inputs.search_by_image(
-#     url='http://cdn2-www.dogtime.com/assets/uploads/gallery/german-shepherd-dog-breed-pictures/standing-7.jpg')
-# print([images.url for images in search if images.score >= 0.59])
-
 
 def getTop_matches(threshold, pet_data):
     if pet_data["state"].lower() == 'colorado':
@@ -157,14 +150,3 @@ pet_item = {
 }
 
 print(getTop_matches(0.3, pet_item))
-
-def add_to_dataset(new_pet):
-    with open('dataset.json', 'r+') as f:
-        data = json.load(f)
-        state_data = data['LostDogs' + new_pet["state"]]
-        state_data.append[new_pet]
-        data['LostDogs' + new_pet["state"]] = state_data
-        f.seek(0)  # <--- should reset file position to the beginning.
-        json.dump(data, f, indent=4)
-        f.truncate()  # remove remaining part
-        # data_set.append(ClImage(url=new_pet["picture"]))  # post format
