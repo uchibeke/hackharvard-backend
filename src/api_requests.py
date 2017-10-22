@@ -18,12 +18,22 @@ def insertDog(geo_long, geo_lat, img_url, timestamp_img, state="none", nuetered=
     db.commit()
 
 
-def getDogByGeoTag(geo_lat, geo_lang, lat_length, long_length):
+def getDogByGeoTag(left, right, top, bottom):
+
+    center_long = (left + right)/2
+    center_lat = (top + bottom)/2
+
+    # Find the state
+
     c = db.cursor()
     c.execute("SELECT ")
 
 
 
 
-print(getDogByID(1))
+
+
+##print(getDogByID(1))
+
+insertDog(100, -110, "http://url", 1324234, "Massachusetts", False, "none", "781---", False, "MISSING")
 
