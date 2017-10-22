@@ -1,5 +1,6 @@
 [
     {
+<<<<<<< HEAD
         "timestamp_img": "2017-10-21T20:16:30+0000",
         "phoneNumber": "2394107861",
         "geo_long": 0.0,
@@ -346,5 +347,255 @@
         "nuetered": "none",
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22491839_1638565792861813_2131624050311400047_n.png?oh=2fe8711c61a2b9c31c50b5604441d1bb&oe=5A6503F0",
         "fb_post_id": "626059954112407_1638566949528364"
+=======
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22539736_1637679652950427_4573353161297111269_n.png?oh=45efe1205f02ece56f1a7b9bebc9522e&oe=5A861280",
+        "fb_post_id": "626059954112407_1637680059617053",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Florida",
+        "nuetered": "none",
+        "timestamp_img": 1508635020,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22554935_1640196426032083_9163847045457225864_n.png?oh=b779f94b070239f1ccd40699cc879c7a&oe=5A84C20B",
+        "fb_post_id": "626059954112407_1640196989365360",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Florida",
+        "nuetered": "none",
+        "timestamp_img": 1508631390,
+        "phoneNumber": "2394107861"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22555109_1640179142700478_2305991165239877565_n.png?oh=9f38394c4907e4b100ab8316ace1f836&oe=5A797118",
+        "fb_post_id": "626059954112407_1640180052700387",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Florida",
+        "nuetered": "none",
+        "timestamp_img": 1508629355,
+        "phoneNumber": "5615231153"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22528337_1640168999368159_6325093655690356251_n.png?oh=cf2f8eb9083ac898c8a7616883104ba4&oe=5A744694",
+        "fb_post_id": "626059954112407_1640170002701392",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Florida",
+        "nuetered": "none",
+        "timestamp_img": 1508628266,
+        "phoneNumber": "8506943113"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22492038_1637711899613869_798311973007519397_n.png?oh=bdcb47e95d0894e4bcb5e8c2bfafc328&oe=5A823F34",
+        "fb_post_id": "626059954112407_1637712142947178",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Florida",
+        "nuetered": "none",
+        "timestamp_img": 1508617081,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22688466_813067005530981_1089151127554070286_n.jpg?oh=67ca5eb6d3bb623f67b96d9f1209b086&oe=5A6CDFEC",
+        "fb_post_id": "626059954112407_1639910746060651",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Florida",
+        "nuetered": "none",
+        "timestamp_img": 1508606696,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22540088_813068182197530_7717051095273018308_n.jpg?oh=9f893d6032215d056021e56cd4929fe4&oe=5A736E77",
+        "fb_post_id": "626059954112407_1639910509394008",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Florida",
+        "nuetered": "none",
+        "timestamp_img": 1508606681,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22539772_813083925529289_2493896770851834745_n.jpg?oh=6f309c601b6733bf1f78eb99fec60cc7&oe=5A734EB8",
+        "fb_post_id": "626059954112407_1639910332727359",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Florida",
+        "nuetered": "none",
+        "timestamp_img": 1508606665,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22549905_1639542596097466_7105913662871488981_n.png?oh=d585cc5ad6d2f6aab1005aff4601232a&oe=5A79CB14",
+        "fb_post_id": "626059954112407_1639544386097287",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Florida",
+        "nuetered": "none",
+        "timestamp_img": 1508569981,
+        "phoneNumber": "3057735557"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22489959_1639501509434908_6277008042581358299_n.png?oh=41335cd1708335e00368e96d7e4dacbb&oe=5A7BB1E4",
+        "fb_post_id": "626059954112407_1639502179434841",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Florida",
+        "nuetered": "none",
+        "timestamp_img": 1508565863,
+        "phoneNumber": "3052133819"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22528233_1639494179435641_5396744396527812550_n.png?oh=658739cb0abfaa62a1af2f7a7dedcef5&oe=5A7AB7BD",
+        "fb_post_id": "626059954112407_1639495039435555",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Florida",
+        "nuetered": "none",
+        "timestamp_img": 1508565058,
+        "phoneNumber": "9547089657"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22552720_1639490396102686_7954772873028953154_n.png?oh=577dc07ad408bf4e7561870a624d6f9d&oe=5A82F7F3",
+        "fb_post_id": "626059954112407_1639491496102576",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Florida",
+        "nuetered": "none",
+        "timestamp_img": 1508564628,
+        "phoneNumber": "2398101422"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22539694_1639483979436661_8545725613909664375_n.png?oh=9ccc061e15d0c3f39a65152f994e9e02&oe=5A7D10AA",
+        "fb_post_id": "626059954112407_1639485276103198",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Florida",
+        "nuetered": "none",
+        "timestamp_img": 1508564050,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22687817_1656639374369833_7285677484666084567_n.jpg?oh=1e91da3f16adaf6429655cf575c5a352&oe=5A856B24",
+        "fb_post_id": "626059954112407_1639423592776033",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Hipp",
+        "nuetered": "none",
+        "timestamp_img": 1508558264,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22688908_10159449630750627_943602760546896149_n.jpg?oh=eaf7ff455c93ef1efc6712e86a61d937&oe=5A6AECAC",
+        "fb_post_id": "626059954112407_1639413759443683",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Manrique",
+        "nuetered": "none",
+        "timestamp_img": 1508557069,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22539679_1639405862777806_6832615504199991402_n.png?oh=eb3422049a144c07d88ede573feef6f1&oe=5A7B4E7F",
+        "fb_post_id": "626059954112407_1639406572777735",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Florida",
+        "nuetered": "none",
+        "timestamp_img": 1508556169,
+        "phoneNumber": "7863062801"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22554983_1639397572778635_3827210066711440208_n.png?oh=8f6597527e7399b2add00daec190ab25&oe=5A7F4C14",
+        "fb_post_id": "626059954112407_1639398949445164",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Florida",
+        "nuetered": "none",
+        "timestamp_img": 1508555340,
+        "phoneNumber": "9546045182"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22519515_1639386712779721_6246009023759313104_n.png?oh=80afb31c1c520fc03d0e874ee60d98bc&oe=5AB0319D",
+        "fb_post_id": "626059954112407_1639388072779585",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Florida",
+        "nuetered": "none",
+        "timestamp_img": 1508554488,
+        "phoneNumber": "9549071594"
+    },
+    {
+        "img_url": "https://external.xx.fbcdn.net/safe_image.php?d=AQDcGdMMR8pdM8pz&w=130&h=130&url=http%3A%2F%2Fcontent.12news.com%2Fphoto%2F2017%2F10%2F19%2Fmissingvalleydog_1508443877301_11442754_ver1.0.png&cfs=1&_nc_hash=AQBHRe30Z-Pht-tc",
+        "fb_post_id": "626059954112407_1638584769526582",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Florida",
+        "nuetered": "none",
+        "timestamp_img": 1508552160,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22519543_1637681719616887_2444837631295377807_n.png?oh=5e66212068afeb67f6135eaf1ebd3cd4&oe=5A623DF7",
+        "fb_post_id": "626059954112407_1637681889616870",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Florida",
+        "nuetered": "none",
+        "timestamp_img": 1508527260,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22491915_1639063159478743_6825057462440632243_n.jpg?oh=fb75b406373e06e36764b763422e81be&oe=5A666E1F",
+        "fb_post_id": "626059954112407_1639063176145408",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Florida",
+        "nuetered": "none",
+        "timestamp_img": 1508526543,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22492041_1637712679613791_5198119222813232005_n.png?oh=9feebdfce89f51fd2c1910bf685aee62&oe=5A73F467",
+        "fb_post_id": "626059954112407_1637714462946946",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Florida",
+        "nuetered": "none",
+        "timestamp_img": 1508520000,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22528165_1637707559614303_1969256238041106110_n.png?oh=4bde3a9a658e9b855687fca18b8fddd3&oe=5A7A65A3",
+        "fb_post_id": "626059954112407_1637707806280945",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Florida",
+        "nuetered": "none",
+        "timestamp_img": 1508517900,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22540178_812696265568055_2187377366114347031_n.jpg?oh=c54f2aae21097298f9a59853b85cfbde&oe=5A7EDAF5",
+        "fb_post_id": "626059954112407_1638915399493519",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Florida",
+        "nuetered": "none",
+        "timestamp_img": 1508515664,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22688441_1637678112950581_559259301757837619_n.png?oh=4858c746ba9892781f6267eb7f3ff209&oe=5A63CE63",
+        "fb_post_id": "626059954112407_1637678226283903",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Florida",
+        "nuetered": "none",
+        "timestamp_img": 1508512380,
+        "phoneNumber": "none"
+>>>>>>> 5c0fdc89f3f5fbb956d920c99b923aa1dafba62f
     }
 ]

@@ -1,5 +1,6 @@
 [
     {
+<<<<<<< HEAD
         "timestamp_img": "2017-10-21T14:43:50+0000",
         "phoneNumber": 0,
         "geo_long": 0.0,
@@ -346,5 +347,255 @@
         "nuetered": "none",
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22366784_756843471185626_5896779042855969528_n.jpg?oh=6138bf75f109ad3430f42ee7a26d497d&oe=5A62100E",
         "fb_post_id": "462486770625209_733295646877652"
+=======
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22539907_736339366573280_6775762734508320991_n.png?oh=be5be9b5e57882694bfb7bc3ac154cfd&oe=5A7527B2",
+        "fb_post_id": "462486770625209_736339613239922",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Maine",
+        "nuetered": "none",
+        "timestamp_img": 1508611430,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://external.xx.fbcdn.net/safe_image.php?d=AQB_GMq7EuxjVdq-&w=130&h=130&url=https%3A%2F%2Flh3.googleusercontent.com%2FxdueXhNlC5WHrs6epxdOJn3O2TTH5wCEq-y2AyQaM2SD7OxEludQ1reSIVXqdQxvU9jhHFymcfh1NLCM_6HmjA%3Ds1000&cfs=1&_nc_hash=AQCKMEIV1GmxvKTc",
+        "fb_post_id": "462486770625209_735957706611446",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Maine",
+        "nuetered": "none",
+        "timestamp_img": 1508531266,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22550039_1630679200324311_6466369115228797995_n.jpg?oh=95914a86e0b92cd043e4d3a53a680b06&oe=5A6E6F75",
+        "fb_post_id": "462486770625209_735865359954014",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Maine",
+        "nuetered": "none",
+        "timestamp_img": 1508519709,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-1/p200x200/21432697_896985567120290_2978513315118887236_n.jpg?oh=e0e2fd3b9b11015be1d88c100af2bf5a&oe=5A72094A",
+        "fb_post_id": "462486770625209_735608993312984",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Maine",
+        "nuetered": "none",
+        "timestamp_img": 1508464919,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-1/c39.0.100.100/p100x100/10410716_1586440651634042_5359743962654657578_n.jpg?oh=a1bc000788c2ada4fe2d5c241de876f6&oe=5A6697B0",
+        "fb_post_id": "462486770625209_735546899985860",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Maine",
+        "nuetered": "none",
+        "timestamp_img": 1508451866,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22528089_10159691860235107_2235209372502516938_n.jpg?oh=1eb799d403f1f6b13b2d078f76a61a03&oe=5A7A8F9B",
+        "fb_post_id": "462486770625209_735511776656039",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Maine",
+        "nuetered": "none",
+        "timestamp_img": 1508446520,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://external.xx.fbcdn.net/safe_image.php?d=AQCYKfAGVUk2jho5&w=130&h=130&url=http%3A%2F%2Fmedia.channel3000.com%2Fmmm-wisctv-media-us-east-1%2Fphoto%2F2017%2F10%2F17%2FGertrude%2520%2520dog%25201280_1508270734018_9002325_ver1.0_1280_720.jpg&cfs=1&_nc_hash=AQBnkS0SxZc9FUrs",
+        "fb_post_id": "462486770625209_735049163368967",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Maine",
+        "nuetered": "none",
+        "timestamp_img": 1508400840,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22491837_1928798660772037_6623345724034163963_n.jpg?oh=2ea09519da84e2585d01f3d1b9252e32&oe=5A6C4751",
+        "fb_post_id": "462486770625209_735157280024822",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Graves",
+        "nuetered": "none",
+        "timestamp_img": 1508378607,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22491476_735107926696424_8522196156210279252_n.png?oh=0b0668fdaef75360c3cf242bf6cb871a&oe=5A648FF5",
+        "fb_post_id": "462486770625209_735109810029569",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Maine",
+        "nuetered": "none",
+        "timestamp_img": 1508368400,
+        "phoneNumber": "2078901925"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22448151_1735438243174269_4993792430676221215_n.jpg?oh=80e5c91de16b0676e9758f851d4860b3&oe=5A7EDE4C",
+        "fb_post_id": "462486770625209_735012356705981",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Maine",
+        "nuetered": "none",
+        "timestamp_img": 1508351686,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22519539_734788533395030_1493784162929126311_n.png?oh=f2714015854f42b88ab4fb68174aac3f&oe=5AAF29E6",
+        "fb_post_id": "462486770625209_734788643395019",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Maine",
+        "nuetered": "none",
+        "timestamp_img": 1508300504,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/q81/s130x130/22490069_1524267517610249_7116326860163307338_n.jpg?oh=b86a8ebfcbc123e62c68ecae5eef0d00&oe=5A731EC4",
+        "fb_post_id": "462486770625209_734785153395368",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Moore",
+        "nuetered": "none",
+        "timestamp_img": 1508299378,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22489965_1117635025040520_8357408286027593182_n.png?oh=1b7be73a2f6537e553153570f6991748&oe=5A68ACDF",
+        "fb_post_id": "462486770625209_734733330067217",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Maine",
+        "nuetered": "none",
+        "timestamp_img": 1508289020,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://external.xx.fbcdn.net/safe_image.php?d=AQB_GMq7EuxjVdq-&w=130&h=130&url=https%3A%2F%2Flh3.googleusercontent.com%2FxdueXhNlC5WHrs6epxdOJn3O2TTH5wCEq-y2AyQaM2SD7OxEludQ1reSIVXqdQxvU9jhHFymcfh1NLCM_6HmjA%3Ds1000&cfs=1&_nc_hash=AQCKMEIV1GmxvKTc",
+        "fb_post_id": "462486770625209_734709646736252",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Maine",
+        "nuetered": "none",
+        "timestamp_img": 1508282304,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22491861_734613533412530_3296427058096047221_n.png?oh=fd8d9c376328ace55cec59f4c6acebde&oe=5A6E3315",
+        "fb_post_id": "462486770625209_734613770079173",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Maine",
+        "nuetered": "none",
+        "timestamp_img": 1508268864,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22489902_734600376747179_3550460870369192527_n.jpg?oh=bfa27df5479b2a43f477db8bd2c9d0ea&oe=5A634FB6",
+        "fb_post_id": "462486770625209_734600480080502",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Maine",
+        "nuetered": "none",
+        "timestamp_img": 1508266753,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22528203_1779126062144870_9117234615903612726_n.jpg?oh=6e38ce7a8d47b142a554271a47764e19&oe=5A67CF0F",
+        "fb_post_id": "462486770625209_734298133444070",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Maine",
+        "nuetered": "none",
+        "timestamp_img": 1508204798,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-1/p200x200/22228601_730154890525061_8552213960728091929_n.png?oh=0ffda27dc0cd7ccf039e64c32f7a55b3&oe=5A6B0A2B",
+        "fb_post_id": "462486770625209_734229973450886",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Maine",
+        "nuetered": "none",
+        "timestamp_img": 1508192238,
+        "phoneNumber": "5301635605"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-1/p100x100/14457248_1130282723719078_7641381238313637724_n.jpg?oh=387bf294ed11079caff568945b3f7bf2&oe=5A72DAD8",
+        "fb_post_id": "462486770625209_734214286785788",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Maine",
+        "nuetered": "none",
+        "timestamp_img": 1508189242,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/21686241_723450337862183_3288215149935885676_n.jpg?oh=2d8ea15747b8b22a744c062820d2f1c4&oe=5A6DC433",
+        "fb_post_id": "462486770625209_734190720121478",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Maine",
+        "nuetered": "none",
+        "timestamp_img": 1508184672,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22449802_734032276803989_4741179621227096123_n.jpg?oh=7cee9f9f098abc86e2309349e78177c6&oe=5A720FE4",
+        "fb_post_id": "462486770625209_734032323470651",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Maine",
+        "nuetered": "none",
+        "timestamp_img": 1508162541,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22405972_1115957435208279_6399124236609333310_n.png?oh=1b08a2ea5225753afb16fc9bd53dd190&oe=5A6E14D4",
+        "fb_post_id": "462486770625209_733740606833156",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Maine",
+        "nuetered": "none",
+        "timestamp_img": 1508098030,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22406192_733352810205269_9108769289683260639_n.png?oh=2dd797f87b9e6fd37bd521a108f705b0&oe=5A86F073",
+        "fb_post_id": "462486770625209_733353476871869",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Maine",
+        "nuetered": "none",
+        "timestamp_img": 1508058060,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22406184_733346823539201_2823564969447330018_n.jpg?oh=3dae1529d29b3f65e91abe8dc980554b&oe=5A68BBDD",
+        "fb_post_id": "462486770625209_733346906872526",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Maine",
+        "nuetered": "none",
+        "timestamp_img": 1508012726,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22366784_756843471185626_5896779042855969528_n.jpg?oh=6138bf75f109ad3430f42ee7a26d497d&oe=5A62100E",
+        "fb_post_id": "462486770625209_733295646877652",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Maine",
+        "nuetered": "none",
+        "timestamp_img": 1508004812,
+        "phoneNumber": "none"
+>>>>>>> 5c0fdc89f3f5fbb956d920c99b923aa1dafba62f
     }
 ]

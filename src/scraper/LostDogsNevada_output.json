@@ -1,5 +1,6 @@
 [
     {
+<<<<<<< HEAD
         "timestamp_img": "2017-10-21T16:35:49+0000",
         "phoneNumber": "7022173828",
         "geo_long": 0.0,
@@ -349,5 +350,255 @@
         "nuetered": "none",
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22279560_1944210882518835_317768764344826448_n.jpg?oh=fe160795c0c11afcebcc5220a4d71d97&oe=5A649EE7",
         "fb_post_id": "1413816112260680_1718232501819038"
+=======
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22687952_1722311381411150_7373187900435229835_n.jpg?oh=d127d948f78744717a71f54fd518a437&oe=5AAFE656",
+        "fb_post_id": "1413816112260680_1722311418077813",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Nevada",
+        "nuetered": "none",
+        "timestamp_img": 1508618149,
+        "phoneNumber": "7022173828"
+    },
+    {
+        "img_url": "https://external.xx.fbcdn.net/safe_image.php?d=AQB_GMq7EuxjVdq-&w=130&h=130&url=https%3A%2F%2Flh3.googleusercontent.com%2FxdueXhNlC5WHrs6epxdOJn3O2TTH5wCEq-y2AyQaM2SD7OxEludQ1reSIVXqdQxvU9jhHFymcfh1NLCM_6HmjA%3Ds1000&cfs=1&_nc_hash=AQCKMEIV1GmxvKTc",
+        "fb_post_id": "1413816112260680_1721986554776966",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Nevada",
+        "nuetered": "none",
+        "timestamp_img": 1508531444,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22550039_1630679200324311_6466369115228797995_n.jpg?oh=95914a86e0b92cd043e4d3a53a680b06&oe=5A6E6F75",
+        "fb_post_id": "1413816112260680_1721930051449283",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Nevada",
+        "nuetered": "none",
+        "timestamp_img": 1508519851,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/17523273_1640881099554179_6604514475395087745_n.jpg?oh=9774b5f112d4667edff4f45d7b13aebc&oe=5A79E863",
+        "fb_post_id": "1413816112260680_1721330124842609",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Nevada",
+        "nuetered": "none",
+        "timestamp_img": 1508366939,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22491786_1721326278176327_7744304795645763930_n.png?oh=ffb1649770bfa98e5f19dbcdfd06f73f&oe=5A86C662",
+        "fb_post_id": "1413816112260680_1721326278176327",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Nevada",
+        "nuetered": "none",
+        "timestamp_img": 1508366159,
+        "phoneNumber": "7025969293"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22448151_1735438243174269_4993792430676221215_n.jpg?oh=80e5c91de16b0676e9758f851d4860b3&oe=5A7EDE4C",
+        "fb_post_id": "1413816112260680_1721297644845857",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Nevada",
+        "nuetered": "none",
+        "timestamp_img": 1508359132,
+        "phoneNumber": "1630223467"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22554739_1721264751515813_5166896921155730535_n.jpg?oh=88afc92b2a379ac1e4f0a674cc17faba&oe=5A693538",
+        "fb_post_id": "1413816112260680_1721264781515810",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Nevada",
+        "nuetered": "none",
+        "timestamp_img": 1508354472,
+        "phoneNumber": "7022385167"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22489965_1117635025040520_8357408286027593182_n.png?oh=1b7be73a2f6537e553153570f6991748&oe=5A68ACDF",
+        "fb_post_id": "1413816112260680_1721021974873424",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Nevada",
+        "nuetered": "none",
+        "timestamp_img": 1508289238,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/19665196_1682199812088974_2586199588261546882_n.jpg?oh=b3e7cc95b4dea830d960699d54edf445&oe=5A64A210",
+        "fb_post_id": "1413816112260680_1720930058215949",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Nevada",
+        "nuetered": "none",
+        "timestamp_img": 1508268321,
+        "phoneNumber": "1682199578"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22540033_1720927771549511_2640396028284365083_n.png?oh=f1121576ae8bd666dfd56bddec3715d1&oe=5A87019C",
+        "fb_post_id": "1413816112260680_1720927771549511",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Nevada",
+        "nuetered": "none",
+        "timestamp_img": 1508267785,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22405544_2034034196830317_4276840919424405503_n.jpg?oh=9c5f71c3b59dd7ae8bf081cb020733f5&oe=5A721D43",
+        "fb_post_id": "1413816112260680_1720603104915311",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Nevada",
+        "nuetered": "none",
+        "timestamp_img": 1508181351,
+        "phoneNumber": "1474091689"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22089394_1715720532070235_404785610842247720_n.png?oh=80c292cb6114ef1f183fc85f927e9d0f&oe=5A7C029B",
+        "fb_post_id": "1413816112260680_1720433024932319",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Nevada",
+        "nuetered": "none",
+        "timestamp_img": 1508139700,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/15433795_1610834282558861_3255143683101142974_n.jpg?oh=430487e665f5ea167ca1d7783112604c&oe=5A63A3D1",
+        "fb_post_id": "1413816112260680_1720051828303772",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Nevada",
+        "nuetered": "none",
+        "timestamp_img": 1508041196,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/16299023_1618581095117513_3433828692421465358_n.jpg?oh=b69e9e0be03b4974901957c8c57c6065&oe=5A65D4E3",
+        "fb_post_id": "1413816112260680_1720050941637194",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Nevada",
+        "nuetered": "none",
+        "timestamp_img": 1508040928,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22406084_1720047788304176_8384976449806802541_n.jpg?oh=f5af2d015a231bd0ddaf30ad5d9c00d8&oe=5A67BC81",
+        "fb_post_id": "1413816112260680_1720047788304176",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Nevada",
+        "nuetered": "none",
+        "timestamp_img": 1508040031,
+        "phoneNumber": "9169695765"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/15894307_1611287229180233_6357624395908221766_n.jpg?oh=d9583ee323729787f0f09853bab57d2f&oe=5A6F1313",
+        "fb_post_id": "1413816112260680_1719385278370427",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Nevada",
+        "nuetered": "none",
+        "timestamp_img": 1507876983,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/15826515_1610834325892190_1255030566554872567_n.jpg?oh=ba279425c5e1d9ced1d6c9dbf8a42729&oe=5A7096D5",
+        "fb_post_id": "1413816112260680_1719382011704087",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Nevada",
+        "nuetered": "none",
+        "timestamp_img": 1507875842,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22448506_1468154709941440_8409163987768608614_n.jpg?oh=580826ced00835705efbb955107a3aec&oe=5A860A36",
+        "fb_post_id": "1413816112260680_1719279281714360",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Santinii",
+        "nuetered": "none",
+        "timestamp_img": 1507847959,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22196153_1716559668652988_666007204180771141_n.jpg?oh=75198441526baabf530c0197b8b17fa7&oe=5A75F6C6",
+        "fb_post_id": "1413816112260680_1719021475073474",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Nevada",
+        "nuetered": "none",
+        "timestamp_img": 1507786979,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22448183_2032853423615061_5071192541308525826_n.jpg?oh=664c579931570502173aeb1df6a500f5&oe=5A6303B2",
+        "fb_post_id": "1413816112260680_1718942831748005",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Nevada",
+        "nuetered": "none",
+        "timestamp_img": 1507764721,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22309046_2032513716982365_7014703274051567276_n.jpg?oh=6e15f1a9157ea0e4a370e21f1e149484&oe=5A66C9C6",
+        "fb_post_id": "1413816112260680_1718724665103155",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Nevada",
+        "nuetered": "none",
+        "timestamp_img": 1507709449,
+        "phoneNumber": "1474091689"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/19601510_1682200075422281_8157103479782487708_n.jpg?oh=00e49dc60895764ad88ef2599e5a5de7&oe=5A663FC6",
+        "fb_post_id": "1413816112260680_1718619468447008",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Nevada",
+        "nuetered": "none",
+        "timestamp_img": 1507678938,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22310275_1718320595143562_8318030983921620560_n.png?oh=221421be438eecbdc841d8486c36b396&oe=5A861F99",
+        "fb_post_id": "1413816112260680_1718320595143562",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Nevada",
+        "nuetered": "none",
+        "timestamp_img": 1507608649,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22279862_1191570214276725_7980230405805399656_n.jpg?oh=1741b059e6245d15b6eb30e20d5fc711&oe=5A790C1A",
+        "fb_post_id": "1413816112260680_1718283658480589",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Vera",
+        "nuetered": "none",
+        "timestamp_img": 1507599706,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22279560_1944210882518835_317768764344826448_n.jpg?oh=fe160795c0c11afcebcc5220a4d71d97&oe=5A649EE7",
+        "fb_post_id": "1413816112260680_1718232501819038",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Nevada",
+        "nuetered": "none",
+        "timestamp_img": 1507586802,
+        "phoneNumber": "1944210935"
+>>>>>>> 5c0fdc89f3f5fbb956d920c99b923aa1dafba62f
     }
 ]

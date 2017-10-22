@@ -1,5 +1,6 @@
 [
     {
+<<<<<<< HEAD
         "timestamp_img": "2017-10-20T16:15:34+0000",
         "phoneNumber": 0,
         "geo_long": 0.0,
@@ -348,5 +349,255 @@
         "nuetered": "none",
         "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/20664532_1407931052637032_3094449202306802648_n.jpg?oh=ba6ccdf1126c9117ea2c811bb9f1e1a7&oe=5A61EB66",
         "fb_post_id": "389758111121003_1407931492636988"
+=======
+        "img_url": "https://external.xx.fbcdn.net/safe_image.php?d=AQB_GMq7EuxjVdq-&w=130&h=130&url=https%3A%2F%2Flh3.googleusercontent.com%2FxdueXhNlC5WHrs6epxdOJn3O2TTH5wCEq-y2AyQaM2SD7OxEludQ1reSIVXqdQxvU9jhHFymcfh1NLCM_6HmjA%3Ds1000&cfs=1&_nc_hash=AQCKMEIV1GmxvKTc",
+        "fb_post_id": "389758111121003_1469706163126187",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Colorado",
+        "nuetered": "none",
+        "timestamp_img": 1508530534,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22550039_1630679200324311_6466369115228797995_n.jpg?oh=95914a86e0b92cd043e4d3a53a680b06&oe=5A6E6F75",
+        "fb_post_id": "389758111121003_1469526549810815",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Colorado",
+        "nuetered": "none",
+        "timestamp_img": 1508518155,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22448151_1735438243174269_4993792430676221215_n.jpg?oh=80e5c91de16b0676e9758f851d4860b3&oe=5A7EDE4C",
+        "fb_post_id": "389758111121003_1467630120000458",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Colorado",
+        "nuetered": "none",
+        "timestamp_img": 1508342376,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22489965_1117635025040520_8357408286027593182_n.png?oh=1b7be73a2f6537e553153570f6991748&oe=5A68ACDF",
+        "fb_post_id": "389758111121003_1467103340053136",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Colorado",
+        "nuetered": "none",
+        "timestamp_img": 1508284925,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22448355_1462557673841036_5240801069044500845_n.jpg?oh=3fad454c6f7e080128f0b701d0879148&oe=5A728275",
+        "fb_post_id": "389758111121003_1462557763841027",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Colorado",
+        "nuetered": "none",
+        "timestamp_img": 1507841307,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://external.xx.fbcdn.net/safe_image.php?d=AQCkNKbyWOUX9a8S&w=130&h=130&url=http%3A%2F%2Fmedia.nbclosangeles.com%2Fimages%2F1200%2A675%2FDogFound1005_MP4_1280x720_1063553603734.jpg&cfs=1&_nc_hash=AQCA9eCOxILeYTZE",
+        "fb_post_id": "389758111121003_1460874880675982",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Colorado",
+        "nuetered": "none",
+        "timestamp_img": 1507667794,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/21767988_1762001143857362_7429952797471087350_n.jpg?oh=084b01409901a2bc7d739f7f6387e3b8&oe=5A6F0F85",
+        "fb_post_id": "389758111121003_1450937191669751",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Colorado",
+        "nuetered": "none",
+        "timestamp_img": 1506648551,
+        "phoneNumber": "1735249866"
+    },
+    {
+        "img_url": "https://external.xx.fbcdn.net/safe_image.php?d=AQCl8CvpAj1q4Ccj&w=130&h=130&url=https%3A%2F%2Fgjsentinel.s3.amazonaws.com%2Fimages%2Fsocial%2Frss_16.gif&cfs=1&_nc_hash=AQB40VLQG6P70sT_",
+        "fb_post_id": "389758111121003_1448683531895117",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Colorado",
+        "nuetered": "none",
+        "timestamp_img": 1506390929,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22007370_1448485321914938_8602208236589259058_n.jpg?oh=3f075d13312088da9f4a3d3c7f241dff&oe=5A675F32",
+        "fb_post_id": "389758111121003_1448485451914925",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Colorado",
+        "nuetered": "none",
+        "timestamp_img": 1506370205,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t15.0-10/s130x130/21911942_1517547668284141_3232021379104636928_n.jpg?oh=f919fe41054e65ad91cceb05095da471&oe=5A6B0522",
+        "fb_post_id": "389758111121003_1444182732345197",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Colorado",
+        "nuetered": "none",
+        "timestamp_img": 1505923644,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/21463233_1441468099283327_8666682217429056713_n.jpg?oh=e792d5a67ebfc5527fb8e4e3edee84a1&oe=5A6FBB67",
+        "fb_post_id": "389758111121003_1441468215949982",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Colorado",
+        "nuetered": "none",
+        "timestamp_img": 1505673034,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/21730931_1438393689590768_173817633135545435_n.jpg?oh=35b29efd88a5c0dcd617502cc03aa3dc&oe=5A86FB50",
+        "fb_post_id": "389758111121003_1438393852924085",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Colorado",
+        "nuetered": "none",
+        "timestamp_img": 1505423952,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/21740210_1437379459692191_6656843129714807632_n.jpg?oh=62dae83d418ff1610d1032dc6f9b008c&oe=5A71C363",
+        "fb_post_id": "389758111121003_1437379516358852",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Colorado",
+        "nuetered": "none",
+        "timestamp_img": 1505322508,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/21730960_1436573089772828_240445066940308970_n.jpg?oh=78f638ae1ac41f7f29216ac86a5c8cae&oe=5A83027F",
+        "fb_post_id": "389758111121003_1436573143106156",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Colorado",
+        "nuetered": "none",
+        "timestamp_img": 1505231623,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/21430048_1435138286582975_447025821010339493_n.jpg?oh=928e89fe5cbd8bc002e44f65ffd0c811&oe=5A7A99AB",
+        "fb_post_id": "389758111121003_1435138346582969",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Colorado",
+        "nuetered": "none",
+        "timestamp_img": 1505070295,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/21314820_1432990876797716_2859372190707713809_n.jpg?oh=c80c0301f5c6c492b6810b76c88b4e7c&oe=5A7F2166",
+        "fb_post_id": "389758111121003_1432991026797701",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Colorado",
+        "nuetered": "none",
+        "timestamp_img": 1504831070,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/21272337_1431261883637282_2503477583798592315_n.jpg?oh=57b3b3f60804ea1bb6aca6e6ab0ddcf4&oe=5AB0222A",
+        "fb_post_id": "389758111121003_1431261923637278",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Colorado",
+        "nuetered": "none",
+        "timestamp_img": 1504639478,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/21314777_1503438236361751_4577163687823092351_n.jpg?oh=994815a19701d243e68b0d754dc58fa9&oe=5A7C1E2A",
+        "fb_post_id": "389758111121003_1429923657104438",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Colorado",
+        "nuetered": "none",
+        "timestamp_img": 1504499732,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://external.xx.fbcdn.net/safe_image.php?d=AQBLtdzJshuxJOly&w=130&h=130&url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2017%2F08%2F29%2Fus%2F30xp-texashelp%2F30xp-texashelp-facebookJumbo.jpg&cfs=1&sx=90&sy=0&sw=550&sh=550&_nc_hash=AQBFV7Sn88I888pC",
+        "fb_post_id": "389758111121003_1429536170476520",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Colorado",
+        "nuetered": "none",
+        "timestamp_img": 1504460484,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/21231166_1428256913937779_3196083129508476219_n.jpg?oh=094722cfed871b8b87d59a8dec56fa59&oe=5A6C44E6",
+        "fb_post_id": "389758111121003_1428256957271108",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Colorado",
+        "nuetered": "none",
+        "timestamp_img": 1504325478,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/21077497_1423531961076941_5946033222838624778_n.jpg?oh=5c76967ee5f2a8e9538163da3653834b&oe=5A6DF8F3",
+        "fb_post_id": "389758111121003_1423531984410272",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Colorado",
+        "nuetered": "none",
+        "timestamp_img": 1503855051,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/20729645_1570563083002590_6411185848127511767_n.jpg?oh=b8df5a080c2d636558953de87ec92f76&oe=5A7C622B",
+        "fb_post_id": "389758111121003_1411623165601154",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Colorado",
+        "nuetered": "none",
+        "timestamp_img": 1502756309,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://external.xx.fbcdn.net/safe_image.php?d=AQATYqmm5pBPQBJs&w=130&h=130&url=https%3A%2F%2Fwww.petlink.net%2Fwp-content%2Fuploads%2F2017%2F08%2FCheckthechipday.jpg&cfs=1&_nc_hash=AQBXJOVbaAXT87Ul",
+        "fb_post_id": "389758111121003_1411466348950169",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Colorado",
+        "nuetered": "none",
+        "timestamp_img": 1502743949,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://external.xx.fbcdn.net/safe_image.php?d=AQCuMefvXQiNl7nL&w=130&h=130&url=http%3A%2F%2Fwww.merrillfotonews.com%2Fwp-content%2Fuploads%2F2017%2F06%2FHumane-Society-1024x768.jpg&cfs=1&_nc_hash=AQB4zjW_wQB-pMve",
+        "fb_post_id": "389758111121003_1409807485782722",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Colorado",
+        "nuetered": "none",
+        "timestamp_img": 1502578182,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/20664532_1407931052637032_3094449202306802648_n.jpg?oh=ba6ccdf1126c9117ea2c811bb9f1e1a7&oe=5A61EB66",
+        "fb_post_id": "389758111121003_1407931492636988",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Colorado",
+        "nuetered": "none",
+        "timestamp_img": 1502406474,
+        "phoneNumber": "none"
+>>>>>>> 5c0fdc89f3f5fbb956d920c99b923aa1dafba62f
     }
 ]

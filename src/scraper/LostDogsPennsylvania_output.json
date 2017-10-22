@@ -1,5 +1,6 @@
 [
     {
+<<<<<<< HEAD
         "timestamp_img": "2017-10-20T19:54:28+0000",
         "phoneNumber": "7329479344",
         "geo_long": 0.0,
@@ -346,5 +347,255 @@
         "nuetered": "none",
         "img_url": "https://external.xx.fbcdn.net/safe_image.php?d=AQDCLbHEFjFNvOhA&w=130&h=130&url=https%3A%2F%2Fbloximages.newyork1.vip.townnews.com%2Flancasteronline.com%2Fcontent%2Ftncms%2Fassets%2Fv3%2Feditorial%2F0%2Fe1%2F0e1589ce-da69-11e4-9904-3f05421ba3cc%2F551f3cd311893.image.jpg%3Fresize%3D981%252C630&cfs=1&_nc_hash=AQCyg9Z5LnIHEls3",
         "fb_post_id": "1435591899991197_1925852440965138"
+=======
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22549552_1405310412856147_5591870377606421009_n.jpg?oh=eac9758a66c45eac0b6b9e984682e1e2&oe=5A7E32BA",
+        "fb_post_id": "1435591899991197_1932924636924585",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Sierra",
+        "nuetered": "none",
+        "timestamp_img": 1508543668,
+        "phoneNumber": "7329479344"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22550039_1630679200324311_6466369115228797995_n.jpg?oh=95914a86e0b92cd043e4d3a53a680b06&oe=5A6E6F75",
+        "fb_post_id": "1435591899991197_1932791030271279",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Pennsylvania",
+        "nuetered": "none",
+        "timestamp_img": 1508520765,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22540070_1932571076959941_1522415332036116717_n.jpg?oh=57d498b59c2d66959c7498d0a1527a22&oe=5A828FEC",
+        "fb_post_id": "1435591899991197_1932571163626599",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Pennsylvania",
+        "nuetered": "none",
+        "timestamp_img": 1508475566,
+        "phoneNumber": "3042992364"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22552639_10212861845688333_3167804445474490004_n.jpg?oh=aeba581bbe43c2206fd098636e7419af&oe=5A7A1CA8",
+        "fb_post_id": "1435591899991197_1932555476961501",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "MacAulay",
+        "nuetered": "none",
+        "timestamp_img": 1508473214,
+        "phoneNumber": "1950165731"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22489885_1931451143738601_5046767402016786711_n.jpg?oh=a251b62c5a8657eceddb730e21c6c6da&oe=5A6B099F",
+        "fb_post_id": "1435591899991197_1931451433738572",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Pennsylvania",
+        "nuetered": "none",
+        "timestamp_img": 1508206850,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22449636_1931139467103102_8125714114978972490_n.jpg?oh=ba092462d853a5aea46b4a84d3450f81&oe=5A774567",
+        "fb_post_id": "1435591899991197_1931139493769766",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Pennsylvania",
+        "nuetered": "none",
+        "timestamp_img": 1508130427,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22491931_1931119997105049_7398276982731168040_n.jpg?oh=5b265a13cfc0867c8f5d4838e595e83d&oe=5A7C8E55",
+        "fb_post_id": "1435591899991197_1931120380438344",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Pennsylvania",
+        "nuetered": "none",
+        "timestamp_img": 1508123527,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22449879_1931102047106844_1445694537424213818_n.jpg?oh=9d7a8920cb3f4a2a006d64bee4a42e78&oe=5A81EE32",
+        "fb_post_id": "1435591899991197_1931102287106820",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Pennsylvania",
+        "nuetered": "none",
+        "timestamp_img": 1508119147,
+        "phoneNumber": "2155894196"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22449758_10156167564796111_379854623980467308_n.jpg?oh=a0e569b4181021e9acb9406bee58f83c&oe=5A7F58E9",
+        "fb_post_id": "1435591899991197_1931097863773929",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Ridenour",
+        "nuetered": "none",
+        "timestamp_img": 1508117614,
+        "phoneNumber": "2155894196"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/p130x130/22405972_1115957435208279_6399124236609333310_n.png?oh=1b08a2ea5225753afb16fc9bd53dd190&oe=5A6E14D4",
+        "fb_post_id": "1435591899991197_1931019870448395",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Pennsylvania",
+        "nuetered": "none",
+        "timestamp_img": 1508099176,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22448263_902231613257888_4491647106352166387_n.jpg?oh=d45e6676592bec65d1031af24cf34972&oe=5A66FF1F",
+        "fb_post_id": "1435591899991197_1930664263817289",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Hughes",
+        "nuetered": "none",
+        "timestamp_img": 1508016443,
+        "phoneNumber": "4105043954"
+    },
+    {
+        "img_url": "https://external.xx.fbcdn.net/safe_image.php?d=AQB5ewdXW5yNW-Jz&w=130&h=130&url=https%3A%2F%2Fbiz.patch.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Ft800x600%2Fpublic%2Fusers%2F22830708%2F20171011162856%2Fdog.jpeg&cfs=1&_nc_hash=AQDUhKVtEtJb8ttK",
+        "fb_post_id": "1435591899991197_1929899013893814",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Mignogna",
+        "nuetered": "none",
+        "timestamp_img": 1507838710,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22450066_1929848323898883_831016244370873366_n.jpg?oh=481adc54d3a576b8a9e418dba4ba7fa2&oe=5A715EFC",
+        "fb_post_id": "1435591899991197_1929848860565496",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Pennsylvania",
+        "nuetered": "none",
+        "timestamp_img": 1507828007,
+        "phoneNumber": "5708147993"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22405693_10213089642092358_8285787615026392951_n.jpg?oh=7756ec767f03993e63a7846c698de091&oe=5A80C62E",
+        "fb_post_id": "1435591899991197_1929607353922980",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Pennsylvania",
+        "nuetered": "none",
+        "timestamp_img": 1507761797,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22405693_10213089642092358_8285787615026392951_n.jpg?oh=7756ec767f03993e63a7846c698de091&oe=5A80C62E",
+        "fb_post_id": "1435591899991197_1929544273929288",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Camerlin",
+        "nuetered": "none",
+        "timestamp_img": 1507748277,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22281884_2068682396698847_9192518191844435912_n.png?oh=1f3131f7170065999c88c6cbaa39689f&oe=5A81B605",
+        "fb_post_id": "1435591899991197_1928862867330762",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "York",
+        "nuetered": "none",
+        "timestamp_img": 1507580421,
+        "phoneNumber": "1406218659"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22221725_1928229687394080_6956608201693848302_n.jpg?oh=2c92bc9395845ea5168f576f8fee1bbe&oe=5A70CC3C",
+        "fb_post_id": "1435591899991197_1928229827394066",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Pennsylvania",
+        "nuetered": "none",
+        "timestamp_img": 1507433740,
+        "phoneNumber": "3023320876"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22221964_1928164260733956_4332612896812453836_n.jpg?oh=1b2d564aacd18b8acedb2431482b9752&oe=5A762A70",
+        "fb_post_id": "1435591899991197_1928164507400598",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Pennsylvania",
+        "nuetered": "none",
+        "timestamp_img": 1507416723,
+        "phoneNumber": "2677678504"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22310186_1928163500734032_7393858539936547323_n.jpg?oh=2acdc0bfc945c69fbcb83cdf9913489d&oe=5A83E749",
+        "fb_post_id": "1435591899991197_1928163780734004",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Pennsylvania",
+        "nuetered": "none",
+        "timestamp_img": 1507416501,
+        "phoneNumber": "2677678504"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22154231_1927018497515199_2668344474266934787_n.jpg?oh=5538fbfa42617fbc1d84ce445afa1adc&oe=5A7E984F",
+        "fb_post_id": "1435591899991197_1927018637515185",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Pennsylvania",
+        "nuetered": "none",
+        "timestamp_img": 1507157606,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22141085_1926132717603777_7485136193854411149_n.png?oh=42524e65bb38c66214e0194f869738da&oe=5A7C037B",
+        "fb_post_id": "1435591899991197_1926132747603774",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Pennsylvania",
+        "nuetered": "none",
+        "timestamp_img": 1506950991,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22154640_1926132474270468_8740774341083675712_n.png?oh=17593cb03262a70ec326fa1ccc22c2d7&oe=5A8216AA",
+        "fb_post_id": "1435591899991197_1926132527603796",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Pennsylvania",
+        "nuetered": "none",
+        "timestamp_img": 1506950958,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/22141074_1926076994276016_9043422091421091339_n.jpg?oh=57c6981f6d28bc794943e4e8e33f9991&oe=5A7AAE94",
+        "fb_post_id": "1435591899991197_1926080094275706",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Pennsylvania",
+        "nuetered": "none",
+        "timestamp_img": 1506934144,
+        "phoneNumber": "7248256452"
+    },
+    {
+        "img_url": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/13062137_1711374235746294_211524804609241811_n.png?oh=694148814043394e15400dbac71f7022&oe=5A840FF5",
+        "fb_post_id": "1435591899991197_1925937577623291",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Pennsylvania",
+        "nuetered": "none",
+        "timestamp_img": 1506897334,
+        "phoneNumber": "none"
+    },
+    {
+        "img_url": "https://external.xx.fbcdn.net/safe_image.php?d=AQDCLbHEFjFNvOhA&w=130&h=130&url=https%3A%2F%2Fbloximages.newyork1.vip.townnews.com%2Flancasteronline.com%2Fcontent%2Ftncms%2Fassets%2Fv3%2Feditorial%2F0%2Fe1%2F0e1589ce-da69-11e4-9904-3f05421ba3cc%2F551f3cd311893.image.jpg%3Fresize%3D981%252C630&cfs=1&_nc_hash=AQCyg9Z5LnIHEls3",
+        "fb_post_id": "1435591899991197_1925852440965138",
+        "geo_long": 0.0,
+        "geo_lat": 0.0,
+        "state": "Pennsylvania",
+        "nuetered": "none",
+        "timestamp_img": 1506881236,
+        "phoneNumber": "none"
+>>>>>>> 5c0fdc89f3f5fbb956d920c99b923aa1dafba62f
     }
 ]

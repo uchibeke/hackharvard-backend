@@ -1,6 +1,8 @@
 import pymysql.cursors
 import json
-db = pymysql.connect(host='40.71.253.77', passwd='RuffinitHarvard2017', user='root', db='Ruffinit', cursorclass=pymysql.cursors.DictCursor)
+
+db = pymysql.connect(host='40.71.253.77', passwd='RuffinitHarvard2017', user='root', db='Ruffinit',
+                     cursorclass=pymysql.cursors.DictCursor)
 
 
 def getDogByID(dog_id):
@@ -21,5 +23,5 @@ def getDogByGeoTag(geo_lat, geo_lang, lat_length, long_length):
     c.execute("SELECT ")
 
 
-
 print(getDogByID(1))
+
